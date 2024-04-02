@@ -158,7 +158,9 @@ def retrieve_data_from_page(page, url, offset):
                 "opentime": opentime,
                 "img_url": img_url
             }
-            item_list.append(item)
+            #filter out unpopular places
+            if not (heat==0 and rate==0 and img_url==""):
+                item_list.append(item)
     except:
         print("error, url:", url)
 

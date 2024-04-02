@@ -2,11 +2,11 @@ import requests, time
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Points of Interest & Landmarks in Toronto
+# Points of Interest & Landmarks
 LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
-#Nature & Parks in Toronto
+#Nature & Parks
 PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
-#Museums in Toronto
+#Museums
 MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
 
 PREFIX = "https://www.tripadvisor.ca/"
@@ -160,7 +160,9 @@ def retrieve_data_from_page(page, url, offset):
                 "opentime": opentime,
                 "img_url": img_url
             }
-            item_list.append(item)
+            #filter out unpopular places
+            if not (heat==0 and rate==0 and img_url==""):
+                item_list.append(item)
     except:
         print("error, url:", url)
 
