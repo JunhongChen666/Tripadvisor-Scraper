@@ -23,11 +23,14 @@ def read_and_write_csv(input_file, output_file):
             description = description.replace('\\', '\\\\').replace('"', '\\"')
             description = '"' + description + '"'
         df.at[index, 'description'] = description
-    
+    df['ITEM_ID'] = range(1, len(df) + 1)
     # Write the processed DataFrame to the output CSV file
-    df[['labels', 'description']].to_csv(output_file, mode='a', header=False, index=False) 
+    df[['ITEM_ID','labels', 'description']].to_csv(output_file, mode='a', header=False, index=False) 
 
 
+columns = ['ITEM_ID', 'GENRES', 'DESCRIPTION']
+df = pd.DataFrame(columns=columns)
+df.to_csv(OUTPUT_FILE, mode='w', header=True, index=False) 
 read_and_write_csv(F1, OUTPUT_FILE)
 read_and_write_csv(F2, OUTPUT_FILE)
 read_and_write_csv(F3, OUTPUT_FILE)
