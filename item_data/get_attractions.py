@@ -1,4 +1,4 @@
-import requests, time
+import requests, time, sys
 from bs4 import BeautifulSoup
 import pandas as pd
 PREFIX = "https://www.tripadvisor.ca/"
@@ -24,24 +24,14 @@ PREFIX = "https://www.tripadvisor.ca/"
 # DESTINATIONID=2
 
 
-#QuebecCity
-# Points of Interest & Landmarks
-LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155033-Activities-c47-t163-Quebec_City_Quebec.html"
-#Nature & Parks
-PARK_URL= "https://www.tripadvisor.ca/Attractions-g155033-Activities-c57-Quebec_City_Quebec.html"
-#Museums
-MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155033-Activities-c49-Quebec_City_Quebec.html"
-FILE_NAME = "Quebec City.csv"
-DESTINATIONID=3
-
-# #New York
+# #QuebecCity
 # # Points of Interest & Landmarks
-# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
+# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155033-Activities-c47-t163-Quebec_City_Quebec.html"
 # #Nature & Parks
-# PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
+# PARK_URL= "https://www.tripadvisor.ca/Attractions-g155033-Activities-c57-Quebec_City_Quebec.html"
 # #Museums
-# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
-# FILE_NAME = "New York.csv"
+# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155033-Activities-c49-Quebec_City_Quebec.html"
+# FILE_NAME = "Quebec City.csv"
 # DESTINATIONID=3
 
 # # WashingtonDC
@@ -54,15 +44,17 @@ DESTINATIONID=3
 # FILE_NAME = "Washington DC.csv"
 # DESTINATIONID=4
 
-# #QuebecCity
-# # Points of Interest & Landmarks
-# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155033-Activities-c47-t163-Quebec_City_Quebec.html"
-# #Nature & Parks
-# PARK_URL= "https://www.tripadvisor.ca/Attractions-g155033-Activities-c57-Quebec_City_Quebec.html"
-# #Museums
-# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155033-Activities-c49-Quebec_City_Quebec.html"
-# FILE_NAME = "Quebec City.csv"
-# DESTINATIONID=5
+#New York
+# Points of Interest & Landmarks
+LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
+#Nature & Parks
+PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
+#Museums
+MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
+FILE_NAME = "New York.csv"
+DESTINATIONID=5
+
+
 
 def parse_page(url):
     headers = {
@@ -72,7 +64,7 @@ def parse_page(url):
         'Accept-Language': "en-CA,en;q=0.9,zh-CN;q=0.8,zh-CA;q=0.7,zh;q=0.6",
         'Connection': "keep-alive",
         # "Content-Type": "application/json",
-        # "Cash-Control": "no-cache, must-revalidate"
+        "Cash-Control": "no-cache, must-revalidate"
     }
     response = requests.get(url, headers=headers)
 
@@ -81,6 +73,7 @@ def parse_page(url):
         # print(text)
     else:
         print(f"Failed to retrieve the page. Status code: {response.status_code}")
+        sys.exit()
         return
 
     # parse html
