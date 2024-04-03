@@ -3,15 +3,15 @@ from bs4 import BeautifulSoup
 import pandas as pd
 PREFIX = "https://www.tripadvisor.ca/"
 
-# #Toronto
-# Points of Interest & Landmarks in Toronto
-LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c47-t163-Toronto_Ontario.html"
-#Nature & Parks in Toronto
-PARK_URL= "https://www.tripadvisor.ca/Attractions-g155019-Activities-c57-Toronto_Ontario.html"
-#Museums in Toronto
-MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c49-Toronto_Ontario.html"
-FILE_NAME = "Toronto.csv"
-DESTINATIONID=1
+# # #Toronto
+# # Points of Interest & Landmarks in Toronto
+# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c47-t163-Toronto_Ontario.html"
+# #Nature & Parks in Toronto
+# PARK_URL= "https://www.tripadvisor.ca/Attractions-g155019-Activities-c57-Toronto_Ontario.html"
+# #Museums in Toronto
+# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c49-Toronto_Ontario.html"
+# FILE_NAME = "Toronto.csv"
+# DESTINATIONID=1
 
 # #Vancouver
 # # Points of Interest & Landmarks
@@ -44,15 +44,15 @@ DESTINATIONID=1
 # FILE_NAME = "Washington DC.csv"
 # DESTINATIONID=4
 
-# #New York
-# # Points of Interest & Landmarks
-# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
-# #Nature & Parks
-# PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
-# #Museums
-# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
-# FILE_NAME = "New York.csv"
-# DESTINATIONID=5
+#New York
+# Points of Interest & Landmarks
+LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
+#Nature & Parks
+PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
+#Museums
+MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
+FILE_NAME = "New York.csv"
+DESTINATIONID=5
 
 
 
@@ -85,6 +85,7 @@ def retrieve_data_from_page(page, url, offset):
         #If scraping fails, try a few more times
         while page is None:
             time.sleep(1)
+            print("retry")
             page = parse_page(url)
         attraction_list = page.find_all("div", attrs={"class": "ALtqV z"})
         item_list = []
@@ -94,6 +95,7 @@ def retrieve_data_from_page(page, url, offset):
         #If scraping fails, try a few more times
         while attraction_url_element is None:
             time.sleep(1)
+            print("retry")
             page = parse_page(url)
             attraction_list = page.find_all("div", attrs={"class": "ALtqV z"})
             tmp = attraction_list[0]
@@ -116,7 +118,7 @@ def retrieve_data_from_page(page, url, offset):
             heat_element = attraction.find(class_="biGQs _P pZUbB osNWb")
             if heat_element is not None:
                 heat = heat_element.text
-            print("heat:", heat)
+            # print("heat:", heat)
 
 
             # rate
@@ -124,7 +126,7 @@ def retrieve_data_from_page(page, url, offset):
             rate_element = attraction.find(class_="jVDab o W f u w JqMhy")
             if rate_element is not None:
                 rate = rate_element.svg.title.text.strip()[0:3]
-            print("rate:", rate)
+            # print("rate:", rate)
 
 
             # img_url
@@ -134,7 +136,7 @@ def retrieve_data_from_page(page, url, offset):
                 img_element = img_element.find("img")
                 if img_element is not None:
                     img_url = img_element["src"]
-            print("img_url", img_url)
+            # print("img_url", img_url)
 
             #filter out unpopular places
             if heat==0 and rate==0 and img_url=="":
@@ -155,7 +157,7 @@ def retrieve_data_from_page(page, url, offset):
                 label = label_element.text.strip()
                 label_list.append(label)
             labels = '|'.join(map(str, label_list))
-            print("labels:", labels)
+            # print("labels:", labels)
 
             # address
             address = ""
@@ -173,7 +175,7 @@ def retrieve_data_from_page(page, url, offset):
             if address == "Read more":
                 address = address2
 
-            print("address:", address)
+            # print("address:", address)
 
             # description
             description = ""
@@ -182,7 +184,7 @@ def retrieve_data_from_page(page, url, offset):
                 description_element = card_element.find("span", attrs={"class": "JguWG"})
                 if description_element is not None:
                     description = description_element.text.strip()
-            print("description:", description)
+            # print("description:", description)
 
             # timeCost
             timeCost = ""
@@ -192,14 +194,14 @@ def retrieve_data_from_page(page, url, offset):
                     timeCost_element = timeCost_element.find(class_="biGQs _P pZUbB KxBGd")
                     if timeCost_element is not None:
                         timeCost = timeCost_element.text.strip()
-            print("timeCost:", timeCost)
+            # print("timeCost:", timeCost)
 
             # opentime
             opentime = ""
             opentime_element = attraction_page.find(class_="EFKKt")
             if opentime_element is not None:
                 opentime = opentime_element.text.strip()
-            print("opentime:", opentime)
+            # print("opentime:", opentime)
 
             item = {
                 "destinationId": DESTINATIONID,

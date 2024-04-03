@@ -1092,3 +1092,567 @@ The Museum is open seven days a week. It is closed on Yom Kippur and Christmas D
 406,Speciality Museums|History Museums,"""The building symbolizes both the desire of Koreans to establish strong and positive diplomatic relations with the United States since the end of the 19th century. An exhibit of photographs at the museum shows pre-colonial Korea's diplomatic activities in the United States, including those of Minister Park Jeong-yang, who also served as a Korean diplomat to Tsarist Russia."""
 407,Art Galleries|Lessons & Workshops,"""Located in Georgetown, the Washington Printmakers Gallery stands as the premier destination for contemporary fine art prints and photographs in the Washington DC community. Since its inception in 1985 by local artists, the gallery has been promoting the creativity of exceptional local and national printmakers, photographers, and book artists. With an extensive membership of talented artists, the gallery boasts a diverse calendar of events, including juried shows, group and solo exhibitions, workshops, classes, enlightening talks, and impactful outreach programs. Visitors can explore an impressive collection of limited-edition prints and photographs thoughtfully curated in bins and flat files. Embracing a commitment to artistic growth and community engagement, the Washington Printmakers Gallery continues to enrich the art scene with its dedication to teaching, internships, lectures, and the promotion of public art shows."""
 408,Art Galleries,
+1,Points of Interest & Landmarks|Parks|Scenic Walking Areas,"""For more than 150 years, visitors have flocked to Central Park's 843 green acres in the heart of Manhattan. Since 1980, the Park has been managed by the Central Park Conservancy, in partnership with the public. Central Park is open 6 am to 1 am daily. Visit the official website of Central Park to learn more about Park happenings and activities and to learn how you to help Central Park!"""
+2,Speciality Museums|Historic Sites|Points of Interest & Landmarks,"""Through commemoration, exhibitions and educational programs, The National September 11 Memorial & Museum, a nonprofit in New York City, remembers and honors the 2,983 people killed in the horrific attacks of September 11, 2001, and February 26, 1993, as well as those who risked their lives to save others and all who demonstrated extraordinary compassion in the aftermath of the attacks.
+
+9/11 Memorial, Open Daily, 7-days, 10 a.m. to 5 p.m.
+
+9/11 Memorial Museum, Open Thursday–Monday, 10 a.m. to 5 p.m.
+
+Thanksgiving and Christmas: Memorial Only, 10 a.m. to 4 p.m.; Museum Closed"""
+3,Points of Interest & Landmarks|Art Museums,"""At New York City's most visited museum and attraction, you will experience over 5,000 years of art from around the world. The Met is for anyone as a source of inspiration, insight and understanding. You can learn, escape, play, dream, discover, connect."""
+4,Points of Interest & Landmarks|Architectural Buildings|Observation Decks & Towers,"""The Empire State Building is the World's Most Famous Building. It rises 1,454 ft from ground to antenna & features the only 360 degree open-air vantage point of Midtown. The 86th & 102nd Fl Observatories are open daily, see esbnyc.com for hours. On a clear day you can see up to 6 states. The brand-new 2nd floor museum (included in all ticket options) offers guests 10,000 sq ft of interactive exhibits that invite visitors on a journey beginning from the building’s construction to its current place in pop culture. The 102nd Fl Obs features floor-to-ceiling windows and a glass elevator with sound & light experience. It is the jewel of NYC. All signage, audio & exhibits in the building are available in 9 languages. We offer free Wi-Fi. The 34th St Lobby entrance features a grand staircase with a 2-story architectural model of the bldg & a high-tech LED exhibit that celebrates lighting ceremonies performed by famous, celebrity guests. Express guests receive red carpet VIP treatment."""
+5,Points of Interest & Landmarks,"""Midtown Manhattan is home to one of the world's most famous theatre districts, with iconic musicals and well-loved plays staged live at over 40 theatres."""
+6,Points of Interest & Landmarks|Monuments & Statues,"""The Statue of Liberty Enlightening the World was a gift of friendship from the people of France to the people of the United States and is a universal symbol of freedom and democracy. The Statue of Liberty was dedicated on October 28, 1886, designated as a National Monument in 1924 and restored for her centennial on July 4, 1986."""
+7,Points of Interest & Landmarks|Architectural Buildings,"""Grand Central Terminal is the most extraordinary public space in New York City. Opened to the public in 1913, this historic train terminal is a world-famous landmark in Midtown. Its rich history is a story of immense wealth and great engineering. Grand Central is one of the busiest train stations in the world, with approximately 750,000 visitors every day. It is the home of Metro-North Railroad, a subway station, iconic restaurants, shops, and the world's most alluring Apple Store. Some of the highlights to see along your tour of Grand Central include the opal-faced clock, valued at $20 million, above the Information Booth, the Largest Tiffany Glass Clock in the World below the 48-foot, 1500-ton Transportation statue overlooking 42nd Street at Park Avenue, and the mystifying acoustics of the Whispering Gallery in front of the Oyster Bar and Restaurant. Audio and guided tours are available for those with a passion for history. More information regarding tours and ways to plan your visit can be found on the Grand Central Terminal website."""
+8,Points of Interest & Landmarks,"""From the Chrysler Building to the Empire State Building, this world-famous skyline view of New York's most densely populated borough is a must-see for any traveler."""
+9,Neighbourhoods|Points of Interest & Landmarks|Scenic Walking Areas,"""Central area in NYC that has many shops, restaurants, office buildings and flashing billboards around it."""
+10,Points of Interest & Landmarks|Architectural Buildings,"""Rockefeller Center is a national historic landmark in the heart of Midtown Manhattan. Home to Top of the Rock Observation Deck, NBC Studios, Radio City Music Hall and much more. Shop, dine and explore at one of New York's most inspiring locations."""
+11,Points of Interest & Landmarks|Theatres,"""Tours run daily starting at 9:30 AM"""
+12,Points of Interest & Landmarks,"""Famous street offering some of the most expensive and fashionable shops in the city."""
+13,Historic Sites|Points of Interest & Landmarks|History Museums,"""Visitors can retrace the steps of their ancestors at this famous landing point that welcomed millions of immigrants to the United States."""
+14,Points of Interest & Landmarks|Parks,"""A 9.75-acre city park in Greenwich Village, characterized by its large, central fountain, and known as a major center of community activity for the neighborhood residents."""
+15,Points of Interest & Landmarks|Architectural Buildings|Observation Decks & Towers,"""This bold, beehive-looking structure is one of the most iconic buildings in Midtown Manhattan and the centerpiece of Hudson Yards. This spiral staircase has 154 interconnecting flights of stairs, and together with its reflective copper metal exterior, creates a surreal appearance and unique photo op. It also offers amazing views of the city and river from different vantage points. Although the upper floors are currently closed to the public, you can access the ground level for free. It's a great stop to make if you're heading to Bella Abzug Park, or on a tour of Hudson Yards and The High Line. – Tripadvisor"""
+16,Historic Sites|Points of Interest & Landmarks|Government Buildings,"""Standing on the eastern shore of Manhattan Island, on the banks of New York City’s East River, United Nations Headquarters remains both a symbol of peace and a beacon of hope. To its 18 acres come representatives of the earth’s seven billion people, to discuss and decide issues of peace, justice and economic and social well being. Visit the United Nations - It's your world!"""
+17,Points of Interest & Landmarks|Architectural Buildings,
+18,Neighbourhoods|Points of Interest & Landmarks|Parks,"""Union Square has a year-round greenmarket, where you can sample goods from local farmers. It also has several playgrounds, a lively holiday market, and benches where you can watch a slice of New York go by."""
+19,Neighbourhoods|Points of Interest & Landmarks,"""Trendy area with cafes, restaurants and fashionable shops."""
+20,Points of Interest & Landmarks,"""Originally a residential area, this square has become one of the more important in New York history. It has become a prime location for many businesses and major buildings."""
+21,Points of Interest & Landmarks|Flea & Street Markets,"""**Please note: All vendors have separate cash registers.** One market, unlimited options. Shop Grand Central Market for the finest and freshest ingredients for everyday meals and special occasions. Grand Central Market Vendors: Bien Cuit, Ceriello Fine Foods, Dishes at Home, E.A.T. Gifts, Eli Zabar's Bread & Pastry, Eli Zabar's Farm to Table, Li-Lac Chocolates, Murray's Cheese, Oren's Daily Roast, Pescatore Seafood, Spices and Tease, and Sushi by Pescatore. The Grand Central Market is closed on New Year's Day, Easter Sunday, Memorial Day, 4th of July, Labor Day, Thanksgiving Day, and Christmas Day."""
+22,Points of Interest & Landmarks,
+23,Neighbourhoods|Points of Interest & Landmarks,"""The financial heartbeat of the United States, Wall Street is home to the New York Stock Exchange, where visitors can witness the frenetic and wild pace of stock trading."""
+24,Points of Interest & Landmarks,"""Fans of the TV show 'Friends' will recognize this iconic building immediately. While most scenes in the hit sitcom were filmed in Los Angeles, this six-story apartment building on the corner of 90 Bedford Street and Grove Street was featured extensively as the exterior of Rachel, Monica, Joey, and Chandler’s residence. After you snap a photo with the tan brick building, be sure to explore the rest of Greenwich Village, where you’ll find plenty of restaurants, cafes, and shops. You can check out the Friends Building and other prominent filming locations on a TV and movie tour of New York City. – Tripadvisor"""
+25,Points of Interest & Landmarks|Historic Walking Areas,
+26,Points of Interest & Landmarks|Historic Walking Areas,
+27,Points of Interest & Landmarks,"""Lovingly known as the “Ghostbusters Fire Station,” this fully functional firehouse is home to New York City’s Hook & Ladder Company 8. Come up close and personal to the building where Peter, Ray, Egon, and Winston set up their ghostbusting operations, and spot the full-size Ghostbusters sign hanging right above the main entrance. If the crew happens to be around, you can even pop in to buy some memorabilia. Avid TV and film buffs can also join a TV and movie tour to check the Ghostbusters Fire Station and other prominent filming locations off your list. – Tripadvisor"""
+28,Historic Sites|Points of Interest & Landmarks,"""This former Dutch governor's estate, former military fort and former Coast Guard command post now enjoys its old age as a historic monument where you can take the occasional tour."""
+29,Points of Interest & Landmarks,"""This cobblestoned street is a designated historic district."""
+30,Points of Interest & Landmarks|Monuments & Statues,
+31,Points of Interest & Landmarks|Observation Decks & Towers,
+32,Neighbourhoods|Points of Interest & Landmarks,
+33,Points of Interest & Landmarks,
+34,Points of Interest & Landmarks,
+35,Historic Sites|Points of Interest & Landmarks|National Parks,"""This national memorial managed by the National Park Service was the home of statesman and United States Founding Father Alexander Hamilton. Restored and reopened in 2011, the public can enjoy exhibits on some of Hamilton's achievements and challenges on the ground floor, a brief introductory film on his incredible rise from an orphan in the Caribbean to an indespensible molder of the early nation, and visit the furnished first floor by scheduled tour."""
+36,Points of Interest & Landmarks|Churches & Cathedrals,
+37,Points of Interest & Landmarks|Monuments & Statues,
+38,Points of Interest & Landmarks|Architectural Buildings,"""The NYSE is a frantic, frenetic assemblage of traders, technology and tension."""
+39,Points of Interest & Landmarks|Parks,
+40,Points of Interest & Landmarks,
+41,Points of Interest & Landmarks|Bridges,
+42,Points of Interest & Landmarks|National Parks,"""COVID-19 Response UPDATE: Beginning August 26, 2020, General Grant NM reopened access to: General Grant NM Main Plaza General Grant NM Overlook Pavilion With public health in mind, the following facilities/operations remain CLOSED/suspended at this time: General Grant NM Mausoleum and Mosaic Benches General Grant NM Visitor Center and Public Restroom Facilities Check Website for latest information about site access, virtual tours, and, upcoming events Site description: A Unit of the National Park Service, the site serves as the final resting place of President Ulysses S. Grant and his wife, Julia. This is also the largest mausoleum in North America. It testifies to a people's gratitude for the man who ended the bloodiest conflict in American history as Commanding General of the Union Army and then, as the 18th President of the United States, who strove to heal a nation after a civil war and make rights for all citizens a reality."""
+43,Points of Interest & Landmarks,"""Holographic Studios is the world's oldest gallery of 3D holography, where art and science combine to create visual magic. The gallery is open free to the public on weekday afternoons. We offer tours, classes, gifts, and custom hologram portraits. See our website for details on our guided tours of our gallery and subterranean mad scientist laser laboratory!"""
+44,Points of Interest & Landmarks,
+45,Points of Interest & Landmarks|Theatres,
+46,Points of Interest & Landmarks|Architectural Buildings,
+47,Speciality & Gift Shops|Points of Interest & Landmarks|Flea & Street Markets,
+48,Points of Interest & Landmarks|Monuments & Statues,
+49,Points of Interest & Landmarks,"""Elizabeth Street Garden is a unique community garden and green space with sculptures and architectural elements located in the Little Italy neighborhood of Manhattan, between Prince and Spring streets. City-owned and privately leased, the Garden is open to the public daily, weather permitting. Neighborhood volunteers operate the Garden year-round and program more than 150 free, public educational, wellness and arts-related events annually for children, seniors and all who live and work in the community."""
+50,Points of Interest & Landmarks|Architectural Buildings,"""A picturesque Beaux Arts building where visitors can gaze upon beautiful Reginald Marsh murals in an oval rotunda."""
+51,Points of Interest & Landmarks,
+52,Points of Interest & Landmarks|Scenic Walking Areas,
+53,Points of Interest & Landmarks|Architectural Buildings,
+54,Points of Interest & Landmarks,
+55,Points of Interest & Landmarks|Monuments & Statues|Fountains,
+56,Points of Interest & Landmarks|Piers & Boardwalks,
+57,Points of Interest & Landmarks|Architectural Buildings,
+58,Points of Interest & Landmarks|Observation Decks & Towers,
+59,Points of Interest & Landmarks|Scenic Walking Areas,
+60,Points of Interest & Landmarks,"""This pulsing street stretches from East Broadway to West Street and is the main drag of New York City's Chinatown. Come here for a great bargain—there are street vendors, open storefronts and jewelry shops peddling an assortment of \""luxury\"" watches, \""designer\"" bags, perfumes, and souvenir t-shirts. Though buyer beware, authenticity not guaranteed. Closer to Chinatown, there are fruit and vegetable stands and Asian grocery stores that the locals patronize. Take a break from the bustle at a nearby park: Hudson River Greenway, Collect Pond Park, and Columbus Park are all close by. This street is often a stop on walking tours of Lower Manhattan, along with SoHo and Little Italy. – Tripadvisor"""
+61,Historic Sites|Points of Interest & Landmarks|Historic Walking Areas|Bridges|Scenic Walking Areas,
+62,Points of Interest & Landmarks|Monuments & Statues,
+63,Points of Interest & Landmarks|Architectural Buildings,"""Moynihan Train Hall is New York's grand gateway for Long Island Rail Road and Amtrak at Penn Station. In addition to serving passengers and commuters, the Train Hall is a vibrant civic hub for all, and the iconic new heart of Midtown's West Side. Moynihan Train Hall recently adapted the magnificent, century-old Farley Building—the city's historic main post office—and features a vaulted sky-lit concourse, world-class transit amenities, museum-caliber public art (including monumental works by Kehinde Wiley, Elmgreen & Dragnet, & Stan Douglas), and exciting shops, bars, and restaurants."""
+64,Points of Interest & Landmarks,
+65,Points of Interest & Landmarks|Monuments & Statues,
+66,Points of Interest & Landmarks,"""This is the diner featured in the hit TV series \""Seinfeld.\"""""
+67,Points of Interest & Landmarks|Theatres,"""United Palace is a transformational organization and venue that fuses culture, spirituality, and entertainment. The fourth largest theater in Manhattan is more than just a unique venue — it is a hub of creative expression and personal growth designed with and for the community."""
+68,Points of Interest & Landmarks|Theatres,
+69,Points of Interest & Landmarks|Monuments & Statues,
+70,Points of Interest & Landmarks|Historic Walking Areas,"""Stonewall National Monument is a new national park unit located in Christopher Park, part of New York City's Historic Greenwich Village. It is a park in progress with limited services, and in the coming years services will be added to the park in cooperation with our partners. The Stonewall Inn, a bar located in Greenwich Village, New York City and the immediate area was the scene of events that began the modern struggle for the civil rights of lesbian, gay, bisexual, and transgender (LGBT) Americans."""
+71,Points of Interest & Landmarks|Historic Walking Areas,"""This road is located on Manhattan's west side."""
+72,Points of Interest & Landmarks|Architectural Buildings,
+73,Points of Interest & Landmarks,
+74,Points of Interest & Landmarks,
+75,Points of Interest & Landmarks|Monuments & Statues,
+76,Points of Interest & Landmarks,
+77,Points of Interest & Landmarks|Libraries,
+78,Points of Interest & Landmarks|Ships,"""Pier 66 Maritime is located in the Hudson River Park at 26th Street and the West Side Highway at Pier 66a. We are a floating historic Rail-Barge that has been re-purposed as a Bar, Restaurant, Dining area. We are a seasonal establishment operating from Mid-April through October."""
+79,Points of Interest & Landmarks,
+80,Points of Interest & Landmarks,
+81,Points of Interest & Landmarks|Piers & Boardwalks,
+82,Neighbourhoods|Points of Interest & Landmarks,
+83,Points of Interest & Landmarks,
+84,Points of Interest & Landmarks,
+85,Points of Interest & Landmarks,
+86,Historic Sites|Points of Interest & Landmarks|Architectural Buildings,
+87,Points of Interest & Landmarks,
+88,Points of Interest & Landmarks,
+89,Points of Interest & Landmarks|Architectural Buildings,
+90,Points of Interest & Landmarks,
+91,Points of Interest & Landmarks,
+92,Points of Interest & Landmarks|Lighthouses|Monuments & Statues,
+93,Points of Interest & Landmarks,
+94,Points of Interest & Landmarks|Monuments & Statues,
+95,Art Galleries|Points of Interest & Landmarks,
+96,Ballets|Speciality & Gift Shops|Points of Interest & Landmarks,"""EST 1980 - On Stage Dancewear is NYC's most famous Dance Shop for dancers of all styles and ages. New York City’s only independent Dance Shop Featuring Manhattan's Largest Selection of Dancewear and Dance Shoes for Ballet, Pointe, Jazz, Tap, Ballroom, Modern Dance, and Flamenco. Full Product Lines by Bloch, Capezio and over 100 Manufacturers and Brands. A vintage shopping experience, decorated with hundreds of original Playbills from Broadway shows and Dance Performances. Professional Pointe Shoe fitters for New York City Ballet, ABT, Joffrey Ballet, and all the professional Ballet Companies in NYC. For over 40 years, outfitters of NYC most iconic Broadway Shows such as the Lion King, Phantom of The Opera, Radio City Rockets, and many more."""
+97,Points of Interest & Landmarks|Monuments & Statues,
+98,Points of Interest & Landmarks|Architectural Buildings,
+99,Points of Interest & Landmarks,
+100,Points of Interest & Landmarks|Fountains,
+101,Points of Interest & Landmarks,
+102,Points of Interest & Landmarks,"""Founded in 1972, Irish Arts Center is an arts and cultural center dedicated to projecting a dynamic image of Ireland and Irish America for the 21st century. Our multi-disciplinary programming includes: Performance (live music, dance, theatre, film, literature) Exhibition (visual arts and cultural presentations) and Education (multiple classes in Irish language, history, music, and dance)."""
+103,Points of Interest & Landmarks,
+104,Speciality & Gift Shops|Points of Interest & Landmarks,"""The Gansevoort Market personifies old New York - offering a curated selection of locally produced goods and fare. The industrial inspired architecture brings together the history of the market while creating a modern communal space to eat, entertain and relax."""
+105,Historic Sites|Points of Interest & Landmarks|Monuments & Statues,
+106,Points of Interest & Landmarks|Bars & Clubs,"""A seasonal floating bar and restaurant in operation from April through October (weather permitting)."""
+107,Points of Interest & Landmarks,
+108,Points of Interest & Landmarks,
+109,Points of Interest & Landmarks,
+110,Speciality & Gift Shops|Points of Interest & Landmarks,"""\""Welcome to our clear, bright world of transparent pricing, superior customer service, and above all else — diamonds without any compromise. Whether you’re investing in your first piece of jewelry, or preparing to propose, we want to arm you with our 60 years of behind-the-scenes knowledge on pricing, sourcing and designing. We'll share everything you need to know to be the smartest, most conscious diamond buyer you can be. We offer a 30-day money back guarantee, and a Price Beat Program we are confidently behind.\"""""
+111,Points of Interest & Landmarks|Monuments & Statues,
+112,Points of Interest & Landmarks,
+113,Points of Interest & Landmarks,
+114,Points of Interest & Landmarks|Architectural Buildings,
+115,Historic Sites|Points of Interest & Landmarks,
+116,Points of Interest & Landmarks|Monuments & Statues,
+117,Points of Interest & Landmarks,
+118,Points of Interest & Landmarks,
+119,Points of Interest & Landmarks|Monuments & Statues,
+120,Points of Interest & Landmarks|Monuments & Statues,
+121,Historic Sites|Points of Interest & Landmarks,
+122,Points of Interest & Landmarks|Monuments & Statues,
+123,Points of Interest & Landmarks,
+124,Points of Interest & Landmarks|Monuments & Statues,
+125,Points of Interest & Landmarks,
+126,Points of Interest & Landmarks,
+127,Points of Interest & Landmarks,"""Avant Gallery is pleased to offer a curated selection of extraordinary objet d'art with limited availability and unlimited personality. This evolving collection includes furniture accent pieces, lighting, sculpture, wall and floor decor, fine art, photography, mixed media design, and other unique collectibles. All of these special pieces can be quintessentially described as wondrous and illusion-f"""
+128,Points of Interest & Landmarks,
+129,Points of Interest & Landmarks|Bridges,
+130,Points of Interest & Landmarks|Scenic Walking Areas,
+131,Points of Interest & Landmarks|Architectural Buildings,
+132,Points of Interest & Landmarks,
+133,Points of Interest & Landmarks|Observation Decks & Towers,
+134,Points of Interest & Landmarks,
+135,Points of Interest & Landmarks,
+136,Points of Interest & Landmarks|Monuments & Statues,
+137,Points of Interest & Landmarks|Theatre & Performances,
+138,Points of Interest & Landmarks|Monuments & Statues,
+139,Points of Interest & Landmarks|Monuments & Statues,
+140,Points of Interest & Landmarks,
+141,Points of Interest & Landmarks,
+142,Points of Interest & Landmarks|Monuments & Statues,
+143,Historic Sites|Points of Interest & Landmarks|Architectural Buildings,
+144,Points of Interest & Landmarks,
+145,Points of Interest & Landmarks,
+146,Points of Interest & Landmarks,
+147,Points of Interest & Landmarks,
+148,Historic Sites|Points of Interest & Landmarks,
+149,Points of Interest & Landmarks|Monuments & Statues,
+150,Points of Interest & Landmarks|Architectural Buildings,
+151,Points of Interest & Landmarks|Architectural Buildings|Government Buildings,
+152,Neighbourhoods|Points of Interest & Landmarks,
+153,Points of Interest & Landmarks,
+154,Points of Interest & Landmarks|Architectural Buildings,
+155,Points of Interest & Landmarks|Architectural Buildings,"""The external image of the Cosby house can be found at 10 Leroy Street. The brownstone townhouse makes multiple appearances in the famous television sitcom. While entrance into the building is not an option, this external architecture presents a lovely photo opportunity."""
+156,Points of Interest & Landmarks|Monuments & Statues,
+157,Points of Interest & Landmarks|Monuments & Statues,
+158,Points of Interest & Landmarks,
+159,Points of Interest & Landmarks|Churches & Cathedrals,
+160,Speciality Museums|Points of Interest & Landmarks,
+161,Points of Interest & Landmarks,"""Edward Tyler Nahem has been a prominent international art dealer for over 25 years. His gallery, Edward Tyler Nahem Fine Art, specializes in Modern, Post-War and Contemporary art."""
+162,Points of Interest & Landmarks,
+163,Points of Interest & Landmarks,
+164,Points of Interest & Landmarks|Architectural Buildings|Government Buildings,
+165,Art Galleries|Points of Interest & Landmarks|Art Museums,"""Hixenbaugh Ancient Art is an ancient art gallery located amidst the many vibrant Contemporary and Modern Art galleries located in in the Chelsea neighborhood of of Manhattan. We specialize in fine authentic ancient art from Europe, the Middle East, North Africa, Central America and South America. We are passionate about our shared past and want to share our admiration of antiquity. Throughout the year, the gallery prepares thematic exhibitions of ancient art for everyone to enjoy. Our current exhibition \""LIGHT ON STONE\"", intermixes contemporary photography with ancient sculpture. The installation features an elegant Venus Genetrix, a marble relief depicting a Nereid and Hippocamp previously owned by actor Charlton Heston, and a massive architectural Corbel. These three-dimensional works are displayed alongside Mr. Coscia's photogrpahy. Many of Mr. Coscia photographs present museum works removed from the museum setting. Two images in the exhibition capture how modern objects can be manipulated to create a likeness to classical scuplture by exploring their textures, surfaces, and the play of light in varying conditions. Photographs of his own paper sculptures capture the gestures and balance of classical stone works. The exhibition will remain on display through November 26, 2016 Our gallery director, Randall A. Hixenbaugh, has been involved in ancient art and antiquities for over 20 years. We specialize in building collections with our clients, both public and private. Due to our in depth knowledge of the antiquities market we are often able to locate particular pieces to complement any collection. History Established in 2006. After working at several art galleries, Randall Hixenbaugh opened his own gallery in 2006. Randy has been involved in ancient art and antiquities for nearly 20 years. He holds a Master's Degree in Classical Archaeology and has participated in a number of archaeological excavations of Roman and Punic sites in Tunisia. Hixenbaugh Ancient Art Ltd is a gallery dedicated to handling fine authentic antiquities. All of the pieces we handle are legally and ethically acquired, in complete accordance with US and international regulations and laws concerning the import and sale of ancient objects. We deal only in authentic pieces with minimal or no restoration. We specialize in fine authentic art from many ancient cultures including Sumerian, Hittite, Babylonian, Assyrian, Canaanite, Judaean, Phoenician, Egyptian, Roman, Greek, Cypriot, Etruscan, Celtic, Byzantine and Pre-Columbian America. Mr. Hixenbaugh is also a member of the Appraisers Association of America (AAA), and is qualified to perform appraisals of antiquities for insurance valuation, estate valuation, and charitable donation."""
+166,Points of Interest & Landmarks|Religious Sites|Churches & Cathedrals,
+167,Points of Interest & Landmarks,
+168,Points of Interest & Landmarks|Government Buildings,
+169,Historic Sites|Points of Interest & Landmarks|Architectural Buildings,
+170,Points of Interest & Landmarks|Airport Lounges,"""New York City's first and only 24/7 On-Demand Sleep Station providing 1 to 8 hour sessions with 2 locations at 385 5th Avenue and 940 8th Avenue."""
+171,Historic Sites|Points of Interest & Landmarks|Architectural Buildings,
+172,Points of Interest & Landmarks|Monuments & Statues,
+173,Points of Interest & Landmarks|Architectural Buildings|Churches & Cathedrals,
+174,Points of Interest & Landmarks,
+175,Points of Interest & Landmarks,
+176,Points of Interest & Landmarks,
+177,Points of Interest & Landmarks|Religious Sites|Churches & Cathedrals,
+178,Points of Interest & Landmarks,
+179,Historic Sites|Points of Interest & Landmarks,
+180,Points of Interest & Landmarks,
+181,Points of Interest & Landmarks,"""Step into a one-of-a-kind creative space made for bringing your images and your imagination together, and taking them higher. From photo printing, film development to camera repairs and cleaning, Wonder Photo Shop is your one stop shop for an amazing experience. Create personalized gifts including mugs and puzzles."""
+182,Points of Interest & Landmarks|Parks|Scenic Walking Areas,"""For more than 150 years, visitors have flocked to Central Park's 843 green acres in the heart of Manhattan. Since 1980, the Park has been managed by the Central Park Conservancy, in partnership with the public. Central Park is open 6 am to 1 am daily. Visit the official website of Central Park to learn more about Park happenings and activities and to learn how you to help Central Park!"""
+183,Parks|Scenic Walking Areas,"""This elevated railway turned public park provides fantastic views of the Hudson River and New York City skyline on Manhattan's West Side. The 1.5-mile High Line draws travelers to its lush horticulture, art installations and community programs. Here, you can have a leisure stroll along the structure and admire colorful murals and installations all around. Other must-sees of the area include the Chelsea Market, the Whitney Museum of American Art and the Vessel. Hear the story behind this unique greenway on a free tour led by knowledgeable guides which takes place on some days. – Tripadvisor"""
+184,Parks,"""Bryant Park has a French-style merry-go-round, open year-round, plus a well-maintained lawn, with chairs and tables. The outdoor Reading Room has picture books and summertime story times. In winter. Take a spin on the free ice-skating rink. The park also has clean bathrooms, a rarity in midtown."""
+185,Parks,
+186,Points of Interest & Landmarks|Parks,"""A 9.75-acre city park in Greenwich Village, characterized by its large, central fountain, and known as a major center of community activity for the neighborhood residents."""
+187,Islands,"""An oasis of peace amid Manhattan’s hustle and bustle, Roosevelt Island offers great views of the New York City skyline and the East River. Stroll along the riverfront promenade from the 14-acre Franklin D. Roosevelt Four Freedoms Park in the south all the way up to the northern tip, where you can relax on the grass outside the Roosevelt Island Lighthouse. If you’re hungry, stop by one of the cafes, delis, and restaurants along Main Street. You can ride the subway to Roosevelt Island, but the tramway runs frequently and offers scenic views along the way. – Tripadvisor"""
+188,Neighbourhoods|Points of Interest & Landmarks|Parks,"""Union Square has a year-round greenmarket, where you can sample goods from local farmers. It also has several playgrounds, a lively holiday market, and benches where you can watch a slice of New York go by."""
+189,Parks|Monuments & Statues,
+190,Parks,
+191,Gardens,"""Located across from the Museum of the City of New York, this Central Park oasis offers six acres of magnificent flowers and trees."""
+192,Parks,
+193,Zoos,"""Oasis of wildlife in downtown Manhattan where visitors can encounter more than 1,400 animals in a variety of habitats, including a tropical rain forest to view rare birds and icy Antarctica to view penguins and other chilly creatures."""
+194,Parks,
+195,Parks,"""A quiet oasis in the middle of New York City, a place to get away from the hectic pace, people-watch, hike or just ride a bike."""
+196,Bodies of Water,
+197,Parks|Gardens,
+198,Islands,
+199,Historic Sites|Points of Interest & Landmarks|National Parks,"""This national memorial managed by the National Park Service was the home of statesman and United States Founding Father Alexander Hamilton. Restored and reopened in 2011, the public can enjoy exhibits on some of Hamilton's achievements and challenges on the ground floor, a brief introductory film on his incredible rise from an orphan in the Caribbean to an indespensible molder of the early nation, and visit the furnished first floor by scheduled tour."""
+200,Parks,"""Battery Park City offers several playgrounds, with bucket swings, a huge climbing structure, and a kid-powered bike carousel. Borrow balls, Hula Hoops or board games and hang out on the soft, clean grass."""
+201,Points of Interest & Landmarks|Parks,
+202,Parks,
+203,Gardens,
+204,Points of Interest & Landmarks|National Parks,"""COVID-19 Response UPDATE: Beginning August 26, 2020, General Grant NM reopened access to: General Grant NM Main Plaza General Grant NM Overlook Pavilion With public health in mind, the following facilities/operations remain CLOSED/suspended at this time: General Grant NM Mausoleum and Mosaic Benches General Grant NM Visitor Center and Public Restroom Facilities Check Website for latest information about site access, virtual tours, and, upcoming events Site description: A Unit of the National Park Service, the site serves as the final resting place of President Ulysses S. Grant and his wife, Julia. This is also the largest mausoleum in North America. It testifies to a people's gratitude for the man who ended the bloodiest conflict in American history as Commanding General of the Union Army and then, as the 18th President of the United States, who strove to heal a nation after a civil war and make rights for all citizens a reality."""
+205,Parks,
+206,Bodies of Water,
+207,Biking Trails,
+208,Gardens,
+209,Parks,
+210,Parks,
+211,Parks,
+212,Parks,"""A lovely and largely uncrowded park that's perfect for the midday stroll. Be sure to check out the statue of famed theater actor Edwin Booth in the guise of Hamlet."""
+213,Playgrounds,
+214,Parks,
+215,Parks|Gardens,
+216,Gardens,
+217,Parks,
+218,Parks,"""Colonial gentlemen used to \""bowl\"" here, at New York City's oldest park, paying one peppercorn per year for the privilege."""
+219,Gardens,
+220,Parks,
+221,Parks,
+222,Parks,
+223,Parks,"""NYC Hot Carts Tour your best experience ever. Come visit us and have a great time - you will not regret it. EN"""
+224,Parks,
+225,Parks,
+226,Parks,"""Park located in the East Village that was the scene of a big uprising in 1991 when a decision was made to evict the park's homeless in order to renovate; today, the park is pretty and quiet, but is still home to many who have no where else to go."""
+227,Parks,
+228,Parks,
+229,Biking Trails,
+230,Bodies of Water,
+231,Parks,
+232,Parks|Hiking Trails|Playgrounds,
+233,Bodies of Water,
+234,Parks,
+235,Parks,"""Harlem’s historic St. Nicholas Park was built in 1906 and designed by Samuel Parsons Jr., a one-time Parks Commissioner and associate of Calvert Vaux, co-designer of Central Park. During the American Revolutionary War, the park’s southern edge known as the \""Point of Rocks.\"" Today the park is home to the Alexander Hamilton National Memorial."""
+236,Nature & Wildlife Areas|Gardens,
+237,Biking Trails|Hiking Trails,
+238,Parks,
+239,Parks|Playgrounds,
+240,Parks,
+241,Parks,"""New York City's recreation and park area is for dog lovers and their four-footed companions, but you have to become a member for a nominal fee."""
+242,Bodies of Water,
+243,Parks,
+244,Gardens,
+245,Parks,
+246,Gardens,
+247,Gardens,"""Romantic garden, tucked away inside Fort Tryon Park, features a well-known sign that gently admonishes \""Let no one say, and say it to your shame, that all was beauty here, until you came.\"""""
+248,Biking Trails,
+249,Gardens,
+250,Parks,
+251,Parks|Playgrounds,
+252,Parks,
+253,Parks,
+254,Parks,
+255,Playgrounds,
+256,Gardens,"""First community garden in New York City opened in 1973 by a local resident, Liz Christy, and a group of gardening enthusiasts known as the \""Green Guerillas.\"""""
+257,Parks,
+258,Parks,
+259,Gardens,
+260,Parks,
+261,Gardens,
+262,Playgrounds,"""A rustic playground in NYC's Central Park that features wood nymphs, vine-covered gazebos and arched bridges."""
+263,Parks,
+264,Parks,
+265,Parks,
+266,Playgrounds,
+267,Parks,
+268,Gardens,
+269,National Parks|Forests|Gardens,
+270,Playgrounds,
+271,Parks|Playgrounds,
+272,Playgrounds,
+273,Marinas,
+274,Parks,
+275,Parks,
+276,Parks,
+277,Gardens,"""A garden devoted to children that offers a fake \""leaf\"" fountain, miniature trains and many other fun activities."""
+278,Sports Complexes|Playgrounds|Game & Entertainment Centres,
+279,Parks,
+280,Nature & Wildlife Areas|Gardens|Geologic Formations,
+281,Gardens,
+282,Parks,
+283,Parks,
+284,Parks,
+285,Parks,
+286,Gardens,
+287,Geologic Formations,
+288,Bus Services|Ski & Snow Tours|Ski & Snowboard Areas,"""OvRride is a collective of snowboarders & skiers from around the world who have come together in New York City to create the only rider owned and operated ski trips in the Metro area. Led by New York’s most experienced snow industry veterans, the OvRride team helps riders and skiers escape NYC with all inclusive ski trip packages to the mountains of New York, Vermont and beyond."""
+289,Parks,
+290,Nature & Wildlife Areas|Parks|Gardens,
+291,Parks|Playgrounds,
+292,Parks,
+293,Playgrounds,
+294,Bodies of Water|Nature & Wildlife Areas|Parks,
+295,Parks,
+296,Parks,
+297,Parks|Playgrounds,
+298,Parks,
+299,Parks|Gardens,
+300,Parks|Gardens,
+301,Parks,
+302,Parks,
+303,Concerts|Parks|Theatre & Performances,"""Free concerts in the park from June to August."""
+304,Parks,
+305,Parks,
+306,Parks|Playgrounds,
+307,Parks,
+308,Parks,
+309,Parks,
+310,Parks,
+311,Playgrounds,
+312,Parks,
+313,Parks,"""Brooklyn Commons is a vibrant campus in the heart of Downtown for business, education, dining and year-round public programming for the community. Brooklyn Commons is where Brooklyn Comes Together!"""
+314,Bodies of Water,
+315,Parks,
+316,Marinas,
+317,Parks,
+318,Parks|Gardens|Playgrounds,
+319,Parks,
+320,Parks,
+321,Parks,
+322,Parks,
+323,Speciality & Gift Shops|Deserts|Coffee Shops,"""The most famous Stroopwafel store in the world has now opened in the heart of New York City's Grand Central Terminal!"""
+324,Parks|Theatre & Performances,"""Annual summer festival of arts located at Prospect Park."""
+325,Rail Services|National Parks|Scenic Railroads|Rail Tours,
+326,Speciality Museums|Historic Sites|Points of Interest & Landmarks,"""Through commemoration, exhibitions and educational programs, The National September 11 Memorial & Museum, a nonprofit in New York City, remembers and honors the 2,983 people killed in the horrific attacks of September 11, 2001, and February 26, 1993, as well as those who risked their lives to save others and all who demonstrated extraordinary compassion in the aftermath of the attacks.
+
+9/11 Memorial, Open Daily, 7-days, 10 a.m. to 5 p.m.
+
+9/11 Memorial Museum, Open Thursday–Monday, 10 a.m. to 5 p.m.
+
+Thanksgiving and Christmas: Memorial Only, 10 a.m. to 4 p.m.; Museum Closed"""
+327,Points of Interest & Landmarks|Art Museums,"""At New York City's most visited museum and attraction, you will experience over 5,000 years of art from around the world. The Met is for anyone as a source of inspiration, insight and understanding. You can learn, escape, play, dream, discover, connect."""
+328,Speciality Museums,"""New York Public Library’s monumental main branch is known for its stunning architecture and remarkable historical collections. Take a break from the city’s hustle and bustle at the Rose Main Reading Room, amid chandeliers and an ornate ceiling with murals. Enjoy the free guided tour of the building and view masterpieces like the first Gutenberg Bible, and bring the kids to see the original stuffed animals that inspired the Winnie the Pooh stories. The library is served by multiple subway lines and is adjacent to the gorgeous Bryant Park, where you can unwind after the visit. – Tripadvisor"""
+329,Natural History Museums,"""The American Museum of Natural History is one of the world’s preeminent scientific and cultural institutions. Since its founding in 1869, the Museum has advanced its global mission to discover, interpret, and disseminate information about human cultures, the natural world, and the universe through a wide-ranging program of scientific research, education, and exhibition. The Museum is renowned for its exhibitions and scientific collections, which serve as a field guide to the entire planet and present a panorama of the world's cultures."""
+330,Art Museums,"""Located in the heart of Manhattan, The Museum of Modern Art (MoMA) is home to the world’s greatest collection of modern and contemporary art. The collection features Vincent van Gogh’s “The Starry Night,” along with works by Claude Monet, Pablo Picasso, Frida Kahlo, Andy Warhol, Salvador Dalí, and many other great artists of our time. MoMA's collection also showcases photography, film, architecture, design, media, and performance art. Visitors can also enjoy the flagship MoMA Store and a range of high-quality dining options."""
+331,Military Museums,"""The Intrepid Museum celebrates the people and technological innovations that have shaped, and continue to shape, our world. It is an immersive and fun place where history and STEM are showcased through marvels such as the world’s first space shuttle; the world’s fastest commercial airliner; a nuclear-weapons-carrying submarine; and dozens of military aircraft, including a supersonic spy plane, all displayed in and around the historic landmark aircraft carrier, Intrepid."""
+332,Speciality Museums,"""9/11 Museum Workshop: 100 Images & Artifacts from 9/11, in the Meatpacking District near High Line Park. Experience what it was like to be with FDNY Firefighters on the front lines after the 9/11 attacks and educate your kids about 9/11 in a gentle, non-threatening way. Experience the stunning images of Official Ground Zero Photographer Gary Marlon Suson. \""Rare Photos\"" (N.Y. Times) are displayed, some in lifelike 3-D. Winner of Trip Advisor's \""Top 25 Museums in the USA” Award for 2013/2014 and a member of Trip Advisor's \""Hall of Fame.\"" Presented in BOSE Audio. Praised by parents as a \""safe\"" intro to 9/11 for their young kids. Guests allowed to pick up rare World Trade artifacts. 1-Hour audio tours Wednesday to Saturday include self-guided audio narration in English, Italian, French and Spanish. Walk-ins welcome. \""Incredible\"" says Fox News. Tastefully and realistically presented. See the \""Bible Page\"" and \""Frozen Clock.\"" A wonderful “first stop” before your visit to the 9/11 Memorial."""
+333,Art Museums|History Museums,"""Atop a tall hill in the northern tip of Manhattan, you’ll find The Met’s second location—The Met Cloisters. Visiting is like traveling through time: medieval architecture is incorporated into a modern building purpose-built to evoke the Middle Ages."""
+334,Speciality Museums,"""The Tenement Museum preserves the history of immigration through the personal accounts of those who built lives in the Lower East Side. Visitors can view restored apartments from the 19th and 20th centuries, walk the historic neighborhood, and interact with residents to learn the stories of generations of immigrants who helped shape the American experience. The museum is available by guided tour only. Each tour focuses on a specific theme and takes visitors to different areas of our two historic tenement buildings or neighborhood."""
+335,Art Museums,"""The Frick Collection is your home for art from the Renaissance to the early twentieth century. Founded by Henry Clay Frick and open since 1935, the museum offers visitors intimate encounters with one of the world’s foremost collections of European fine and decorative arts. The Frick—whose renovated Fifth Avenue buildings will reopen in late 2024—features celebrated works by Rembrandt, Fragonard, Ingres, Bellini, Vermeer, and more. The Frick Art Reference Library, a leading art historical research center, was established one hundred years ago by Helen Clay Frick and provides access to its rich collections for scholars and the public. Stay connected at frick.org/explore."""
+336,Speciality Museums|History Museums,"""The Museum of Sex showcases the history and evolution of human sexuality through immersive exhibitions in collaboration with artists and scholars. Its permanent installation, \""Super Funland: Journey into the Erotic Carnival,\"" offers interactive games and rides to enlighten and engage. Visitors must be 18+ with a valid ID."""
+337,Historic Sites|Points of Interest & Landmarks|History Museums,"""Visitors can retrace the steps of their ancestors at this famous landing point that welcomed millions of immigrants to the United States."""
+338,Speciality Museums|Libraries,"""Just a short walk from Grand Central and Penn Station, the Morgan is a major exhibition venue for fine art, literature, and music, one of New York's great historic sites, and a wonderful place to dine, shop, and attend a concert or film."""
+339,Speciality Museums,"""Madame Tussauds New York in the heart of Times Square is the only place with no ropes or barriers holding you back from living your best life with your favorite stars. Voted as one of New York’s most unique attractions, Madame Tussauds invites you to experience famous moments with the world’s most iconic musicians, A-list stars, sports legends, world leaders and more. With over 85,000 square feet of interactive entertainment, including our Mission: Undead, NYE in NYC, Marvel Super Heroes 4D Experience, the world famous attraction is bigger and better than ever. Don’t forget to come play your part at this summer’s all-new experience Madame Tussauds New York Presents Broadway! The immersive experience that catapults you into the magic of Broadway like never before in an interactive journey behind the scenes of iconic Broadway Shows! Come check out Madame Tussauds New York, the ultimate New York experience!"""
+340,Speciality Museums,"""Historic 135 year old synagogue in the Lower East Side. $15 adults, $10 students/seniors, $8 children. Mondays & Fridays are Pay As You Wish."""
+341,Art Museums,"""The Whitney Museum is New York's home for modern and contemporary art of the United States. Located in Manhattan's vibrant Meatpacking District, the Whitney presents the work of living artists alongside perennial favorites by Edward Hopper, Georgia O'Keeffe, Jacob Lawrence, Alexander Calder, and many others. Advance ticketing is required: book timed tickets today and prepare for your trip at whitney.org."""
+342,Speciality Museums,
+343,Art Museums,"""The Rubin Museum of Art is an arts oasis and cultural hub in New York City's vibrant Chelsea neighborhood that inspires visitors to make powerful connections between contemporary life and the art and ideas of the Himalayas, India, and neighboring regions. With a diverse array of thought-provoking exhibitions and programs-including films, concerts, and on-stage conversations-the Rubin provides immersive experiences that encourage personal discoveries and spark new ways of seeing the world. Emphasizing cross-cultural connections, the Rubin is a space to contemplate the big questions that extend across history and span human cultures."""
+344,Art Museums,"""A museum displaying works of art by German and Austrian artists and designers."""
+345,History Museums,"""The Merchant's House Museum is New York City's only 19th century home preserved intact, with original family furnishings and personal belongings.A unique survivor of Old New York, the House offers a rare and intimate glimpse of how a prosperous merchant family and their Irish servants lived from 1835 to 1865, when New York grew from seaport to thriving metropolis.\""The distinction of the Merchant's House -- and it is a powerful one -- is that it is the real thing. One simply walks through the beautiful doorway into another time and place in New York.\""The New York Times"""
+346,Speciality Museums|Art Museums|Children's Museums|History Museums,"""Experience 400 years of history through groundbreaking exhibitions, immersive films, and thought-provoking conversations among renowned historians and public figures at the New-York Historical Society, New York’s first museum. A great destination for history since 1804, the Museum and the Patricia D. Klingenstein Library convey the stories of the city and nation’s diverse populations, expanding our understanding of who we are as Americans and how we came to be. These efforts to help forge the future by documenting the past join New-York Historical’s DiMenna Children’s History Museum and Center for Women’s History. Digital exhibitions, apps, and our For the Ages podcast make it possible for visitors everywhere to dive more deeply into history. Vaccination against COVID-19 and face masks are recommended."""
+347,Speciality Museums|History Museums,"""The Museum of Jewish Heritage - is committed to the crucial mission of educating diverse visitors about Jewish life before, during, and after the Holocaust. Anchoring the southernmost tip of Manhattan, the Museum of Jewish Heritage completes the cultural and educational landscape it shares with the Statue of Liberty and Ellis Island. On view are; The Holocaust: What Hate Can Do featuring over 1,000 artifacts from the Museum’s collection; Courage to Act: Rescue in Denmark our first exhibition for kids as young as 9; Survivors: Faces of the Holocaust photographs by Martin Schoeller, and a memorial art installation, Garden of Stones, designed by internationally acclaimed sculptor Andy Goldsworthy. The museum also has a 350-seat theater (Edmond J. Safra Hall), special exhibition galleries, Lox at Café Bergson a kosher cafe, and the Pickman Museum shop which sells Judaica as well as books and other related objects."""
+348,Art Museums,"""The circular Frank Lloyd Wright-designed building is as much of a draw as the museum's collection of modern art."""
+349,Speciality Museums,"""The New York branch of the Smithsonian Institution's National Museum of the American Indian serves as an exhibition and education facility in New York City. Exhibitions and public programs explore the diversity of the Native peoples of the Americas and the strength and continuity of their cultures from the earliest times to the present. Public programs present Native people from North, Central, and South America. Program participants share first-person accounts of their heritage and experiences. The museum is located on the first two floors of the historic Alexander Hamilton U.S. Custom House in lower Manhattan. The museum is open seven days a week. Admission is free."""
+350,Military Museums|Speciality Museums|History Museums,"""If you’ve always wanted to be a spy, head over to SPYSCAPE, an attraction dedicated entirely to espionage. Here, you can complete timed coding puzzles at the Encryption Gallery, take a lie detector test at the Deception Gallery, navigate a tangle of lasers at the Special Ops Gallery, check out the special 007 exhibit, and read about the stories of real spies through the ages. Visit during exciting events like Story Mondays, or the Spyflix and Spycon Festivals. The attraction is free with the New York Sightseeing Pass. The Go City: New York Explorer Pass also give you discounted admission. – Tripadvisor"""
+351,Speciality Museums,"""The Jewish Museum of New York offers acclaimed art exhibitions that explore art and culture from ancient to modern times. The Museum is located on New York's famed Museum Mile. The Museum will close early on the following days: April 22, 2024, 3 pm"""
+352,Historic Sites|History Museums,"""The boyhood home (1858-1872) of the only United States President born in Manhattan. It is a national historic site managed by the National Park Service. The site includes galleries and 1865 period rooms with original objects that relate the story of young Theodore Roosevelt, his ranch days, presidency and exploration period."""
+353,Speciality Museums,"""THE MOST FASHIONABLE MUSEUM IN NEW YORK CITY The Museum at FIT (MFIT) is the only museum in New York City dedicated solely to the art of fashion. Best known for its innovative and award-winning exhibitions, the museum has a permanent collection of more than 50,000 garments and accessories dating from the eighteenth century to the present. The Museum at FIT is a specialized fashion museum that fulfills the educational mission of the college and university by promoting original research, creative thinking, and lifelong learning among diverse and inclusive audiences. MFIT is a member of the American Alliance of Museums."""
+354,Observatories & Planetariums,"""No need to settle for just looking at the stars - this $210 million planetarium is a virtual joyride through the universe."""
+355,Game & Entertainment Centres|History Museums,"""RiseNY connects travelers to New York City’s iconic sights and pop culture through informative exhibits and an exciting flight simulation ride. Walk the museum-style galleries which spotlight star-studded memorabilia and feature engaging displays as well as realistic sets from your favorite TV shows. Watch an immersive movie narrated by Jeff Goldblum, then rise 30 feet in the air with the sensational ride that perfectly recreates the Manhattan skyline to give you a bird’s-eye view of New York. A stone’s throw from Times Square, RiseNY makes a perfect activity during a rainy day in the city. – Tripadvisor"""
+356,Speciality Museums,"""Immerse yourself in the Museum of Ice Cream, where flavor meets fun! In line with our mission to unite and inspire through imagination and connection we offer a unique adventure that is ideal for everyone, regardless of age. From families, groups of friends, to those celebrating special occasions, everyone will find joy in our world of unlimited ice cream. 12 diverse multi-sensory installations deliver an enchanting blend of creativity and sweetness, exemplifying our unique position as the best and only immersive museum where you can play like a kid while savoring unlimited ice cream. Come make a splash in our iconic sprinkle pool and take a flavorful journey through ice cream’s captivating history. Join us for an unforgettable scoop of joy!"""
+357,Historic Sites|Art Museums,"""A 21st-century museum housed in New York City’s landmark Carnegie Mansion, Cooper Hewitt offers four floors of galleries dedicated to all disciplines of design, a permanent collection of more than 210,000 design objects fully digitized and available online, and a world-class design library."""
+358,Speciality Museums|Bridges|Children's Museums,"""The New York City Fire Museum is the official museum of the FDNY.Occupying a renovated 1904 Beaux‐Arts firehouse at 278 Spring Street in Hudson Square, west of SoHo, the museum is home to a renowned collection of fire‐related art and artifacts from the 18th century to the present; including hand‐pumped fire engines, horse‐drawn vehicles, early motorized apparatus and firefighting tools and equipment."""
+359,Historic Sites|Architectural Buildings|History Museums,
+360,Speciality Museums|Art Museums,"""The Museum of Arts and Design connects people to the creative potential of materials and skilled making. Visitors to MAD discover new forms of artistic expression and encounter artists challenging traditional thinking about history, society, culture, and art itself. Advocating for the value of the handmade, MAD aims to open minds, stimulate conversation, and foster creativity."""
+361,Historic Walking Areas|History Museums|Shopping Malls,"""The Seaport District is located on the East River in Lower Manhattan with unparalleled views of the Brooklyn Bridge and the city’s iconic skyline. The rich history as New York’s original commercial hub and its storied waterfront location make the Seaport District one of New York City’s most unique settings. The Seaport District is being revitalized into a top destination in New York City for unique culinary, fashion, entertainment and cultural experiences. An essential part of New York for over 300 years, the re-envisioned Seaport District will continue to function as a much-needed community anchor for the rapidly growing population of Lower Manhattan."""
+362,Art Galleries,"""Welcome to Color Factory: a collaboratively-produced art experience in New York City. This multisensory exhibit, inspired by the colors of the city, guides visitors through 16 participatory installations. Featured collaborators include: Lakwena Maciver, Mmuseumm, Emmanuelle Moureaux, Jason Polan, Tamara Shopsin, Kassia St Clair, Molly Young, Kendra Dandy, James Rosa/LAND Gallery, 826NYC, Christine Wong Yap, Rebecca Wright, Randi Brookman Harris, Leah Rosenberg, Erin Jang, and Oh Happy Day. Highlights include ombré floating balloons with wishes for the world written by students at 826NYC, a walkable infographic leading you to your “secret color”, a palette of colorful treats featuring a custom color ice cream scoop, a unique activity on color and human connection, a luminous dance floor, and Color Factory’s signature ball room. Put on your favorite hue and come to us for color!"""
+363,Speciality Museums|Educational sites|Children's Museums,"""Welcome to our fascinating world of illusions. Thrilled yet bewildered you will enter a world that will blow your mind but also give you an opportunity to learn all sorts of things... come and visit us! It is sure to be an amazing and unimaginable experience because whatever you see, especially here in the Museum of Illusions, is not what it appears to be. Are you ready for an adventure?"""
+364,Art Museums,"""The major center for the exhibition of paintings by Nicholas Roerich, a Russian-born artist who increased appreciation of the value of the cultural heritage of all nations."""
+365,Speciality Museums,"""Founded in 1980, the Museum of Chinese in America (MOCA) is dedicated to preserving and presenting the history, heritage, culture and diverse experiences of people of Chinese descent in the United States. The greatly expanded MOCA at 215 Centre Street is a national home for the precious narratives of diverse Chinese American communities, and strives to be a model among interactive museums."""
+366,Speciality Museums,"""Museum filled with paintings by El Greco and Velazquez, as well as many other Hispanic cultural artifacts."""
+367,Architectural Buildings|History Museums,"""You can tour the trading rooms, the museum and the Fed's vault, which holds 900 tons of gold."""
+368,Speciality Museums,"""Manhattan's oldest house, somewhat of an aberration in the modern neighborhood of Washington Heights, served as a command post for George Washington."""
+369,Science Museums|History Museums,"""The Museum of Interesting Things is a traveling interactive demonstration/exhibition of antiques and inventions that goes to schools and events and inspires kids and adults to be curious and to tinker. I like to say it shows kids and adults that their ipods did not pop out of thin air! Like a circus...just no elephants. We have themes that we can even bring to your school or event or you can come to our Secret Speakeasy: \""Eureka!\"" The Invention Show Exploring the industrial revolution and mechanical era, with interactive demonstrations of such items as the steam engine, Thomas Edison cylinder phonograph, windup toys, mechanical door bells and mechanical/gear based household items such as butter churns and apple peelers. Coinciding with the NY/NJ/PA Core Content Curriculum Standards for Science, Social Studies, Technology and STEM/STEAM \""I Can See for Miles\"" The Film & Photography Show Viewing the various methods of capturing a still and moving image throughout history from the camera, to the negative, to the printing methods & options including animation and 3D. Demonstrations are interactive and include box wooden cameras with up to 3 foot bellows, 3D photography from the late 1800’s up to today, albumen prints and tintypes, and glass negatives. Coinciding with the NY/NJ/PA Core Content Curriculum Standards for Visual and Performing Arts And that is just a snap shot of what we have! ;) 16mm vintage film Bouncing Ball Sing-A-Long The Museum of Interesting Things takes over your eyes & ears for a special Circus/Windup toy themed 16mm vintage film bouncing ball sing-a-long party! Remember those bouncing balls films? Well we have them on antique 16mm film! Prepare to sing your heart out! See 16mm films and the Museum will have it's History of Film and Photography exhibition there for you to see and learn about! See 16mm films and the Museum will have it's Windup Circus History of Toys exhibition there for you to see and learn about! Suffragette City The fight to give women the vote lasted over 100 years and spanned the world. This was not just a movement for voting rights, though. The Museum of Interesting Things, through its vast collection that includes actual artifacts from that era, will show you what a bicycle has to do with this. Learn why some men were afraid of women with hats and someone might even get to try on a bustle dress. See how other issues of the times influenced each other and view some of the humorous affirmations and counterpoints to allowing women to vote. By the end, let's see if society as we know it will collapse if the fairer sex enters a voting booth! Coinciding with the NY/NJ/PA Core Content Curriculum Standards for Social Studies"""
+370,Historic Sites|History Museums,"""Constructed in 1799 as a carriage house and converted into a day hotel in 1826, the Museum transports visitors back to a 19th-century country resort for New Yorkers escaping the crowded city below 14th Street. Enjoy a guided tour of eight period rooms, browse in the gift shop, and linger in the secret garden."""
+371,Art Museums,"""Mercer Labs, Museum of Art and Technology, redefines the museum experience. Through fifteen experimental exhibition spaces, interactive experiences, unique listening encounters and immersive installations the relationship between art and technology is redefined. Led by artist and founder Roy Nachum, the experimental institution stands at is located in the heart of downtown New York City. Where culture, and innovation converge with intention and art humanizes technology."""
+372,Speciality Museums,"""The mission of this museum is to promote and stimulate interest in the art of illustration by showcasing more than 1,500 works by such luminaries as Norman Rockwell, N.C. Wyeth, Rockwell Kent, Bernie Fuchs and Brad Holland."""
+373,Architectural Buildings|Observatories & Planetariums,"""A dizzying virtual tour of the universe (from the comfort of your seat) is just one of the exhibits at the Rose."""
+374,Speciality Museums|Science Museums|Children's Museums,"""Sloomoo Institute is an interactive pop-up experience! Sink your hands into over 30 vats of textured, scented slime. See your brain on slime with an EEG machine. Relax at our ASMR sound station and be immersed in CGI satisfying videos. Tag our slime and repeat wall by smearing slime on it. Design your dream slime at the DIY bar. Take a slime shower and walk through 250 gallons of slime. Come play!"""
+375,Art Galleries,
+376,Art Museums,"""New York City's permanent digital immersive art center, transforming traditional culture and making art accessible for all."""
+377,Children's Museums,"""Children’s Museum of the Arts unites children and artists to create and share ambitious works of art with their communities and the world. In 2022, pledging to make all of our programs 100% free of charge, we closed our fee-for-service facility at 103 Charlton Street to follow a new North Star: maximizing accessibility to excellent progressive arts education for all children"""
+378,Art Galleries|Historic Sites|Architectural Buildings,"""Founded in 1898, The National Arts Club is a cultural institution with a mission to stimulate, foster and promote public interest in the arts and the further education of the American people in the fine arts. Annually, The National Arts Club offers more than 150 free programs to the public, including exhibitions, theatrical and musical performances, lectures and readings, attracting an audience of over 25,000 members and guests of members. Feature programs focus on all disciplines of the arts. For a full list of events or to learn more, please visit nationalartsclub.org."""
+379,Speciality Museums,
+380,Art Galleries,"""Founded in 1984 by an artist, Agora Gallery is a contemporary art gallery dedicated to the promotion of national and international artists seeking exposure to the New York art market. Agora Gallery connects artists with professionals, art collectors, and other artists to create an ever growing family dedicated to the world of fine art. If you’re an art lover visiting New York, you won’t want to miss the experience of exploring Chelsea, the gallery district internationally renowned for the diversity and talent it displays. Agora Gallery is a great example of a gallery that showcases the variety and skill present in contemporary art – so be sure to visit us during your time in New York! Admission is free to all."""
+381,Art Galleries,
+382,Speciality Museums|Art Museums,
+383,Children's Museums,"""A kid-friendly museum with many interactive activities."""
+384,Art Museums,
+385,History Museums,"""Just steps away from the Metropolitan Museum of Art, ISAW is a center for scholarly research and graduate education that offers free exhibitions and public programming about its investigations of the ancient world from the western Mediterranean to China.Photo from The Lost World of Old Europe: The Danube Valley, 5000-3500:Female Figurine, Cucuteni, 4050-3900 BCPhoto: Marius Amarie"""
+386,Art Museums,"""The American Folk Art Museum is a free museum and New York City's only museum devoted to the work of folk and self-taught artists. Its mission is to engage people of all backgrounds through its collections, exhibitions, publications, and programs as the leading forum shaping the understanding and appreciation of folk and self-taught art across time and place."""
+387,Art Museums,"""Museum that focuses on historical and contemporary works of African-American artists."""
+388,Speciality Museums,
+389,Art Galleries,"""Sotheby's New York features six floors of newly renovated gallery space. Exhibitions change frequently, depending upon upcoming auctions. For the most up-to-date exhibition schedules, please refer to the Sotheby's website. A branch of the Sant Ambroeus café is located on the 10th floor adjacent to the roof deck and is open daily. Sotheby's Diamonds also has a Salon in the building, which may be visited by appointment. Sotheby's galleries are open to the public and free to visit."""
+390,History Museums,
+391,Speciality Museums|Art Museums,"""ICP’s integrated center at 79 Essex Street on the Lower East Side of Manhattan spans a full city block between Ludlow Street and Essex Street. The closest subway stops are Essex-Delancey (J/Z/F/M) and Grand (B/D), both of which are just steps away. The International Center of Photography (ICP) is the world's leading institution dedicated to photography and visual culture. Through our exhibitions, school, public programs, and community outreach, we offer an open forum for dialogue about the role images play in our culture. Since our founding, we have presented more than 700 exhibitions and offered thousands of classes, providing instruction at every level. ICP is a center where photographers and artists, students, and scholars can create and interpret the world of the image."""
+392,Art Museums,"""Founded in 1977, the New Museum is a leading destination for new art and new ideas. It is Manhattan’s only dedicated contemporary art museum and is respected internationally for the adventurousness and global scope of its curatorial program."""
+393,Art Galleries,"""Cutting-edge art gallery."""
+394,Speciality Museums|Art Museums|Children's Museums|History Museums,"""The New York Transit Museum is the largest museum in the United States devoted to urban public transportation history and one of the premier institutions of its kind in the world. Since its inception over forty years ago, the Museum – which is housed in a historic 1936 IND subway station in Downtown Brooklyn – has grown in scope and popularity. For nearly 25 years, the Transit Museum has also operated a Gallery & Store in Grand Central Terminal. To learn more, visit nytransitmuseum.org."""
+395,Speciality Museums,"""Taste and learn about Rose from around the world as the mansion transports you to magical places filled with endless fun and surprises. Visit Cleopatra’s Palace, try a 1960’s acid test, toss confetti in a giant cake, and more on our wine tour! Then experience RoseLand, a wine-themed playground with games, chandelier swings, tacos, photo ops, and the largest Rose wine list in the country."""
+396,Art Galleries|Speciality Museums|Art Museums,"""Fotografiska New York is the city's contemporary museum of photography, art and culture. It’s a destination to discover world-class photography, eclectic live events, elevated food & drinks, and surprising new perspectives. The vibrant atmosphere is unlike any New York museum — open late every night, music is playing throughout the floors, and you can sip drinks from coffee to cocktails to champagne throughout the museum. Get an authentic New York experience as you discover the museum that was named the 2021-22 Winner of “Best New Culture Destination of the Year in N. America” by the Leading Culture Destinations Awards. Guided by a mission to inspire a more conscious world through the power of photography, art and culture, Fotografiska produces dynamic and unparalleled rotating exhibitions, spanning various genres in inclusive environments. With locations in Stockholm, NYC, Berlin, and Tallinn, Fotografiska is the premier global gathering place for photography and culture."""
+397,Art Museums,"""Asia Society Museum organizes groundbreaking exhibitions of both traditional and contemporary Asian and Asian American art. The Museum is known for its Mr. and Mrs. John D. Rockefeller Collection of masterpiece-quality traditional Asian works, and for its cutting-edge Contemporary Art Collection of videos and new media art by Asian and Asian American artists. A recognized leader in identifying and fostering contemporary Asian and Asian American artists, Asia Society Museum was one of the first American museums to establish a program of contemporary Asian art in the early 1990s."""
+398,Art Galleries,"""Amidst other galleries showcasing the postmodern and avant-garde, NYU's Grey Gallery offers solid 19th- and 20th-century artworks."""
+399,History Museums,"""The Center for Jewish History in New York City illuminates history, culture, and heritage. The Center provides a collaborative home for five partner organizations: American Jewish Historical Society, American Sephardi Federation, Leo Baeck Institute, Yeshiva University Museum, and YIVO Institute for Jewish Research. The collections span a thousand years, with more than 5 miles of archival documents (in dozens of languages and alphabet systems), more than 500,000 volumes, as well as thousands of artworks, textiles, ritual objects, recordings, films, and photographs. The Center for Jewish History is home to the Lillian Goldman Reading Room, Ackman & Ziff Family Genealogy Institute, the David Berg Rare Book Room and the Collection Management & Conservation Wing. Public programs create opportunities for diverse audiences to explore the rich historical and cultural material that lives within the Center's walls."""
+400,Speciality Museums,"""Visitors can select from more than 50,000 radio and television program tapes to listen or watch at one of this museum's 96 radio and television consoles."""
+401,Speciality Museums,"""American institution promotes understanding and relations between the United States and Japan through exhibits of traditional and contemporary Japanese art, films, performing arts, topical lectures and cultural exchange programs."""
+402,Speciality Museums,
+403,Speciality Museums|History Museums,"""Wall Street was the building ground for early skyscrapers, and this museum is dedicated to studying and enjoying them."""
+404,Speciality Museums,"""The South Street Seaport Museum preserves and interprets the ​origins and growth of New York City as a world port, a place where goods, labor, and cultures are exchanged through work, commerce, and the interaction of diverse communities."""
+405,Art Galleries,
+406,Art Galleries|Art Museums,"""Produced by YTG Agency, 2120: An Art Experience by artist Jacob M Fisher is a temporary sound and light art installation at Portion Gallery. Portion Gallery is a blockchain-enabled gallery that exhibits artists that explore the future of art."""
+407,Art Galleries|Historic Walking Areas,
+408,Speciality Museums,
+409,Speciality Museums|Art Museums,"""The Leslie-Lohman Museum of Art provides a platform for artistic exploration through multi-faceted queer perspectives. We embrace the power of the arts to inspire, explore, and foster understanding of the rich diversity of LGBTQ experiences. Created by our founders to preserve LGBTQ identity and build community, the Leslie-Lohman Museum acts as a cultural hub for the LGBTQ community. Our roots trace back to 1969 when Charles Leslie and Fritz Lohman held an exhibit of gay artists for the first time in their SoHo loft. Throughout the 1970s, they continued to collect and exhibit gay artists while supporting the SoHo art community. During the AIDS pandemic of the 1980s, the collection continued to grow as they rescued the work of dying artists from families who, out of shame or ignorance, wanted to destroy it. Located at 26 Wooster Street in the SoHo neighborhood of New York City. Admission is a suggested donation of $10."""
+410,Art Galleries,"""It's colorful, it's collaborative and it all happens...LIVE. At Tribeca Art Factory where guests enjoy an art event that showcases a different talented artist painting live every Friday night! Enjoy an open bar of great cocktails, wine and champagne and small bites from 8pm - midnight. Dress code is creative and classy. It's affordable and a great date spot! Do something a little different on Friday night. Guaranteed fun! Tips: Affordable art can be purchased here by dedicated local artists. Book well in advance as the event tends to sell out. It's encouraged to ask questions and add input to the artist while they create."""
+411,Art Galleries,
+412,Art Galleries|Speciality Museums|Art Museums,"""ARTECHOUSE is New York City's Original Home for Digital Art. Experience MAGENTAVERSE, a spectacular celebration of Pantone's Color of the Year 2023 now on view through May 29th! And starting June 2nd, experience our World Premiere collaboration with NASA at BEYOND THE LIGHT, where you'll ignite your imagination beyond what is visible and step into the unseen depths of our universe, inspired by the extraordinary imagery from the James Webb Telescope. Explore interactive experiences on our Mezzanine level before being dazzled by our Immersion Gallery, a 360-degree groundbreaking digital art experience. And be sure to visit our XR Bar for refreshments and download our ARTECHOUSE App for augmented reality experiences at the bar and throughout the venue. Discover tomorrow's art today at ARTECHOUSE - in the heart of New York's historic Chelsea Market."""
+413,History Museums,
+414,Speciality Museums,"""The Renee and Chaim Gross Foundation preserves and interprets the studio, home, and art collections of renowned American sculptor Chaim Gross (1902-91). The Foundation is open for guided tours Thursday through Saturday. Tickets can be purchased through the Foundation's website."""
+415,Art Galleries,
+416,Art Galleries|Antique Shops,
+417,History Museums,"""Founded in 1897 by fifty American Irishmen, the Society's mission is to record the story of the Irish settlement in America to present day."""
+418,Art Museums,"""Art museum displaying works of different artists from Puerto Rico, Mexico, the Caribbean, and Central and South America."""
+419,Art Museums,
+420,Speciality Museums,
+421,Art Galleries,"""GALLERY HOURS BY APPOINTMENT ONLY: Monday to Friday & Weekends upon request, please contact us to make an appointment. Lilac Gallery opened in Manhattan in 2012 with a mission to bridge Fine and Contemporary Art, aiming to discover brand new art styles and art forms. Our main focus is on emerging international artists that explore new media in their concept with cutting-edge techniques, breaking the barrier of conventionality with expressive pieces. Passionate about handling a roster of contemporary artists, as well as showcasing American and European Fine Art, we aim to achieve excellence in every regard, maintaining a multitude of hand-selected, unique, desirable, thought-provoking and original artworks in our collection."""
+422,Art Museums,
+423,Speciality Museums,"""The Ukrainian Museum acquires, preserves, and exhibits articles of artistic or historic significance to the rich cultural heritage of Ukrainian Americans; its collections include thousands of items of folk art, fine art, and archival material. At its founding in 1976 by the Ukrainian National Women’s League of America, the Museum was hailed as one of the finest achievements of Americans of Ukrainian descent. Since then, and particularly since its move in 2005 to a new, state-of-the-art building in Manhattan’s vibrant East Village, it has become known as one of the most interesting and dynamic smaller museums in New York City. Each year, the Museum organizes several exhibitions, publishes bilingual (English/Ukrainian) catalogues, and presents a wide range of public and educational programs, including concerts, film, lectures, courses, workshops, and special events."""
+424,Art Galleries|Points of Interest & Landmarks,
+425,Speciality Museums|History Museums,
+426,Speciality Museums|Historic Sites,
+427,Speciality Museums,
+428,Speciality & Gift Shops|Art Galleries,
+429,Art Museums,
+430,Art Galleries,
+431,Art Galleries,"""Contemporary art gallery known for presenting highly unusual and challenging artwork and photography."""
+432,Art Galleries,
+433,Art Galleries,
+434,Art Museums,
+435,Speciality Museums,
+436,Speciality Museums,
+437,Speciality Museums,
+438,Speciality Museums,"""Genius Gems NYC has the world's largest collection of magnetic tiles - over 100,000 of them! Nearly 10,000 square feet of space for building challenges, a Design Bar for making your own Glitter Tiles, plus Robot World, a Glow-in-the-Dark Room featuring marble shoots and Superspace Tiles, a cafe with pizza, shakes, snacks, coffee, beer & wine for adults, and more! We are open daily for general admission. We also offer STEM Classes and a STEM Summer Camp, birthdays, private events, date nights, and corporate team building. Tickets must be purchased in advance on our web site. Recommended for ages 4 and up. A fun and educational experience for the whole family!"""
+439,Art Galleries,
+440,Art Galleries|Art Museums,
+441,Art Galleries,
+442,Speciality Museums|Religious Sites,
+443,Speciality Museums,"""Welcome to Candytopia, where colossal candyfloss constructions meld with a tantalizing taffy twistedness! If you ever dreamed of nibbling your way through Candyland or scoring a Golden Ticket, you’ve come to the right place. Treat yourself to Candytopia, and let your tastebuds and your imagination soar!"""
+444,Art Galleries,
+445,Art Galleries,"""Praxis was founded in 1977. With locations in New York and Buenos Aires, our mission is to bring the compelling creativity and imagination of Latin American contemporary art forward to a worldwide audience."""
+446,Art Galleries,
+447,Speciality Museums,
+448,Art Galleries,"""Antiques, Vintage Photos, Posters, Lithographs, Paintings, Drawings, Ephemera, Books, Eclectic objects, unusual gifts"""
+449,Speciality Museums,
+450,Art Galleries,"""Contemporary art gallery in Chelsea."""
+451,Art Galleries,"""The William Secord Gallery specializes in the sale of the fine nineteenth and twentieth century dog and animal paintings. Open by appointment"""
+452,Art Museums|History Museums,"""Museum devoted to Afro-American art and culture. Its offerings range from sculptures and wax mannequins to paintings and folk art."""
+453,Art Galleries,
+454,Speciality Museums,
+455,Speciality Museums|Art Museums|Children's Museums,"""Embark on an enchanting journey of self-exploration at INTER_, where ancient wisdom meets tech-enabled art. Guests of all ages are invited to escape from NYC and explore the INTERverse, traversing two floors of interactive and generative exhibits. Along the way, visitors will become immersed in a labyrinth of otherworldly environments that weave in between our reality and the worlds beyond. Inside, guests are encouraged to be present, be curious, and most importantly – have fun! At INTER_, everyone can explore how their unique, special existence can transform the pattern of the INTERverse while connecting with the beauty, laughter, and power within."""
+456,Art Museums,
+457,Observatories & Planetariums,"""Replacing the old Hayden Planetarium, this theater-style sphere takes people on a virtual joyride through the universe."""
+458,Art Galleries,
+459,Speciality Museums,
+460,Art Galleries,
+461,Art Galleries,
+462,Art Galleries,
+463,Speciality Museums|History Museums,"""One of a kind operating barbershop where haircut and shaves is performed in an atmosphere of the beginning of XX century. All guests would get a pleasure to go back to the earlies 1900, the beginning of the modern history of barbershops ambitiously decorated with lots of golden elements, handcrafted woodwork and impressive chandeliers. A place of a meaningful social formation for a man in America."""
+464,Speciality Museums|Science Museums,"""Arcadia Earth is a large-scale, multi-sensorial journey through underwater worlds, fantasy lands, and inspirational art installations. This next-generation art exhibition and extended reality experience is designed to reignite the conversation around the most pressing environmental issues of our time. Founded and designed by experiential artist Valentino Vettori, Arcadia is the first platform of its kind to offer a powerful, intimately personal exploration of the plight of our planet through human-scale art installations and the futuristic lens of augmented and virtual reality, projection mapping, and interactive environments. With a focus on individual empowerment, each experience provides educational commentary uncovering inconvenient truths about the future of our planet – like the fact that we ingest the equivalent of one credit card a week in micro plastics – accompanied by easily actionable suggestions to inspire everyone to become part of the conservation of the planet."""
+465,Art Galleries,
+466,Art Museums,
+467,Art Galleries,
+468,Art Galleries,
+469,Art Galleries,
+470,Art Galleries,"""Photography art gallery."""
+471,Art Galleries,"""The Center for Book Arts is one of few contemporary arts organizations dedicated to the art of the book, and the only location in New York City at which visitors can view book arts exhibitions in the context of an active, working studio. In keeping with the Center's mission, our exhibitions endeavor to place book art practice within the larger context of contemporary art, exploring the book as object, as media, and as a site of resistance. The Center for Book Arts is dedicated to exploring and cultivating contemporary aesthetic interpretations of the book as an art object, while preserving the traditional practices of the art of the book. The Center seeks to facilitate communication between the book arts community and the larger spheres of contemporary art and literature through exhibitions, classes, public programming, literary presentations, opportunities for artists and writers, publications, and collecting. Founded in 1974 and still located in Manhattan, it was the first not-for-profit organization of its kind in the nation, and has since become a model for others around the world."""
+472,Art Galleries,
+473,Art Galleries,"""Created by art collectors, brought to life by 160 renowned artists and promising talents from major academies, LUMAS is passionate about offering you original and inspiring art as affordable editions."""
+474,Art Galleries,"""The Van Der Plas gallery has been a conduit for contemporary outsider artists for over 40 years. Whether it be street art or contemporary art, the gallery strives to showcase art rising from the innermost human creative spirit. Founder Adriaan Van Der Plas made it the gallery's mission to bring contemporary outsiders like Konstantin Bokov into the public eye."""
+475,Children's Museums,
+476,Art Museums,"""Please check our website for current off-site exhibition and programming information. Swiss Institute is an independent non-profit contemporary art institution dedicated to promoting forward-thinking and experimental art making through innovative exhibitions and programs."""
+477,Art Museums,
+478,Speciality Museums,
+479,Speciality & Gift Shops|Art Galleries,"""Eden Fine Art, a major international art gallery since its inception in 1997. Eden Fine Art successfully operates two flagship galleries at the heart of New York city, One of 10,000 sq ft located at the corner of Madison avenue and 50th street as an expansive bi-level gallery thrives and a second one at the heart of Soho, four floors of 25,000 sq ft at the corner of Broome st and green st. We provide worldwide door to door shipping. Artwork arrives with a certificate of authenticity and an art appraisal from the gallery. On-site consultation, installation, packing and shipping worldwide for new acquisitions or previously owned art work. Among others, Eden Fine Art operates also a large London gallery on new bond st. The gallery promotes a consistent artistic direction by curating a contemporary expression that conveys an optimistic and colorful viewpoint on life."""
+480,Art Galleries|Speciality Museums,"""Tibet House US is a long-term cultural institution founded in 1987 at the request of His Holiness the 14th Dalai Lama to ensure the survival of Tibetan civilization and culture. Tibet House has a spacious gallery for daily meditation classes, lectures and teachings, cultural events and performances. The gallery also features works by contemporary artists of Tibetan origin or inspired by Tibetan culture. In addition to the Gallery, Tibet House has a Repatriation Collection of Tibetan art and ritual implements, an extensive library and research space, book and gift shop, and a traditional shrine-room. Tibet House US is part of a worldwide network of Tibetan institutions committed to ensuring that the light of the Tibetan spirit never disappears from the face of this earth."""
+481,Speciality Museums,
+482,Art Galleries,"""A ground-floor location provides the setting for this contemporary gallery."""
+483,Speciality Museums,
+484,Art Galleries,"""Questroyal Fine Art, LLC, is an established American art gallery specializing in quality American paintings from the nineteenth and twentieth centuries. Questroyal’s extensive inventory of over five hundred artworks includes important Hudson River School, tonalist, impressionist, and modernist examples."""
+485,Art Galleries|Speciality Museums,
+486,Art Galleries,"""Cheim & Read is a well-regarded gallery for modern paintings and photographs."""
+487,History Museums,"""Resulting from a merger between the Goethe-Institut and Inter Nationes, the Institute focuses on the teaching and dissemination of German language and culture."""
+488,Art Galleries,"""Art and sculpture gallery."""
+489,Art Galleries,"""Features modern artists from Europe, Japan, and America."""
+490,Art Galleries,"""Contemporary photography gallery."""
+491,Art Galleries|Antique Shops,"""Established in 1969, OK Harris exhibits antiques, collectibles, and photographs."""
+492,Speciality & Gift Shops|Art Galleries,
+493,Art Galleries,
+494,Speciality Museums|Architectural Buildings,"""After selling 20,000 tickets in the first limited run, SuperReal, the cutting edge interactive digital art installation, is back for the holidays to re imagine the Cipriani landmark building. Converted into a spectacle via one of the largest indoor video mapping installations in the world, SuperReal, blurs the lines between the physical and the digital, illusion and reality."""
+495,Art Galleries,
+496,Natural History Museums,"""Part of the American Museum of Natural History, this facility helps visitors understand how the universe formed through exciting simulations and other exhibits."""
+497,Natural History Museums,
+498,Art Galleries|Speciality Museums,
+499,Art Galleries,"""Art dealer and gallery."""
+500,Speciality Museums,
+501,Speciality Museums,
+502,Art Galleries,
+503,Art Galleries,"""Contemporary art gallery located in Chelsea."""
+504,Speciality Museums|Jazz Bars,
+505,History Museums,
+506,Art Galleries,
+507,Art Galleries,
+508,Art Galleries,
+509,Speciality Museums,
+510,History Museums,"""The House on Henry Street is a permanent, interactive exhibition on the history of Henry Street Settlement and the people who shaped the Lower East Side from our founding in 1893 to the present. The exhibit illuminates themes of social activism, urban poverty, public health, and the Progressive Era. Open Monday-Friday, 9 am- 6 pm"""
+511,Art Galleries,"""Opened in 1995, Sean Kelly presents contemporary works from European and American artists."""
+512,History Museums,
+513,Art Galleries,"""Eden Fine Art, a major international art gallery since its inception in 1997. Eden Fine Art successfully operates two flagship galleries at the heart of New York city, One of 10,000 sq ft located at the corner of Madison avenue and 50th street as an expansive bi-level gallery thrives and a second one at the heart of Soho, four floors of 25,000 sq ft at the corner of Broome st and green st. We provide worldwide door to door shipping. Artwork arrives with a certificate of authenticity and an art appraisal from the gallery. On-site consultation, installation, packing and shipping worldwide for new acquisitions or previously owned art work. Among others, Eden Fine Art operates also a large London gallery on new bond st. The gallery promotes a consistent artistic direction by curating a contemporary expression that conveys an optimistic and colorful viewpoint on life."""
+514,Art Galleries,"""The 2nd of two large galleries by Pace Wildenstein (the other is on 57th St) with fine collections of 19th and 20th American modern paintings and sculptures."""
+515,Art Galleries,"""Galeries Bartoux is an international group with 20 galleries in France, Monaco, London, New York, Miami and Saint-Tropez, representing a whole new generation of artists."""
+516,History Museums,
+517,Art Galleries,
+518,Art Galleries,
+519,Art Galleries,"""Michael Werner presents 20th-century master painters with a focus on the work of german artists."""
+520,Art Galleries,
+521,Art Galleries|Speciality Museums,"""Gallery. Museum. Library. Artist studio. At the Black Gotham Experience Work / Space you can view art, literature, and fashion that celebrates the impact of the African Diaspora since 1625. Go behind the scenes of how our graphic novel is created. Join us for Nerdy Thursdays and walking tours. This off-the-beaten-path experience will give you a different perspective on New York City."""
+522,Art Galleries|Antique Shops,
+523,Art Galleries,
+524,Art Museums,"""The small museum represents pre-Impressionist traditions, particularly Renaissance, Baroque and Rococo, and sponsors changing exhibits that focus on 19th- and 20th-century European academic art."""
+525,Art Galleries|Speciality Museums|Art Museums,
+526,Art Galleries|Art Museums,
+527,Art Galleries,
+528,Art Galleries,
+529,Art Galleries,
+530,Art Galleries,
+531,Art Galleries,"""For over 55 years, Tibor de Nagy Gallery has presented the top contemporary master works of artists like Georgia O'Keeffe."""
+532,Speciality Museums|Points of Interest & Landmarks,
+533,Art Galleries,
+534,Art Galleries,"""ZAZ10TS is an ongoing cultural initiative that integrates art into the office building at 10 Times Square in New York City. Conceived by Tzili Charney, ZAZ10TS employs the building's façade, lobby interior and immediate environment to bring art and culture to the building's community, visitors and passersby."""
+535,Speciality Museums,"""A special-interest museum for people who share an interest in rare and unusual coins."""
+536,Art Galleries,
+537,Art Galleries,"""HUGO GALERIE is a fine art gallery in New York City specializing in contemporary figurative painting and sculpture. HUGO GALERIE represents an international roster of artists working in a variety of media: canvas, linen, and board support oil paint, encaustic, pastel, watercolor, acrylic paint, collage, and marble powder, while sculptures are crafted from bronze, resin, and plaster. HUGO GALERIE’s artists are innovative in not only their media, but also their genres; they work in representational styles that include realism, magical realism, impressionism, and surrealism."""
+538,Art Galleries,
+539,Art Galleries,
+540,Art Galleries|Points of Interest & Landmarks|Art Museums,"""Hixenbaugh Ancient Art is an ancient art gallery located amidst the many vibrant Contemporary and Modern Art galleries located in in the Chelsea neighborhood of of Manhattan. We specialize in fine authentic ancient art from Europe, the Middle East, North Africa, Central America and South America. We are passionate about our shared past and want to share our admiration of antiquity. Throughout the year, the gallery prepares thematic exhibitions of ancient art for everyone to enjoy. Our current exhibition \""LIGHT ON STONE\"", intermixes contemporary photography with ancient sculpture. The installation features an elegant Venus Genetrix, a marble relief depicting a Nereid and Hippocamp previously owned by actor Charlton Heston, and a massive architectural Corbel. These three-dimensional works are displayed alongside Mr. Coscia's photogrpahy. Many of Mr. Coscia photographs present museum works removed from the museum setting. Two images in the exhibition capture how modern objects can be manipulated to create a likeness to classical scuplture by exploring their textures, surfaces, and the play of light in varying conditions. Photographs of his own paper sculptures capture the gestures and balance of classical stone works. The exhibition will remain on display through November 26, 2016 Our gallery director, Randall A. Hixenbaugh, has been involved in ancient art and antiquities for over 20 years. We specialize in building collections with our clients, both public and private. Due to our in depth knowledge of the antiquities market we are often able to locate particular pieces to complement any collection. History Established in 2006. After working at several art galleries, Randall Hixenbaugh opened his own gallery in 2006. Randy has been involved in ancient art and antiquities for nearly 20 years. He holds a Master's Degree in Classical Archaeology and has participated in a number of archaeological excavations of Roman and Punic sites in Tunisia. Hixenbaugh Ancient Art Ltd is a gallery dedicated to handling fine authentic antiquities. All of the pieces we handle are legally and ethically acquired, in complete accordance with US and international regulations and laws concerning the import and sale of ancient objects. We deal only in authentic pieces with minimal or no restoration. We specialize in fine authentic art from many ancient cultures including Sumerian, Hittite, Babylonian, Assyrian, Canaanite, Judaean, Phoenician, Egyptian, Roman, Greek, Cypriot, Etruscan, Celtic, Byzantine and Pre-Columbian America. Mr. Hixenbaugh is also a member of the Appraisers Association of America (AAA), and is qualified to perform appraisals of antiquities for insurance valuation, estate valuation, and charitable donation."""
+541,Art Galleries|Speciality Museums|Educational sites,"""We’re one of the very few auction houses in the world dealing exclusively in rare, original vintage posters. Since the late 1980s, we’ve held auctions 3-4 times a year. Poster aficionados, enthusiasts, collectors, galleries, and leading art museums around the world value Rennert’s Gallery as one of their most trusted venues for successful consignments, unique buying opportunities, unequaled experience in the field, and an impeccable eye for quality in original poster art. Our gallery hosts rotating exhibitions of original poster art, as well as a bookstore of research and coffee-table volumes on poster art, and an extensive research archive open to the public by appointment. We additionally offer for sale a wide catalogue of “Contemporary Classics” poster originals from the 1960s to the 1980s, with specialties in local New York topics, plus late 20th-century Polish, Japanese, and Israeli designers. Our auctions are held under our subsidiary brand Poster Auctions International."""
+542,Art Museums,"""Founded in 2007 as Number 35 Gallery, Cindy Rucker Gallery represents an international roster of emerging artists working in a variety of media."""
+543,Art Galleries,
+544,Art Galleries,
+545,Art Museums,
+546,Art Galleries|Speciality Museums|Art Museums,"""If you are... a Sculptor, Prop Maker, Prototype Maker, Conservator, Police/FBI/Law Enforcer, Model Maker, Restorer, Architect, Body Caster, Display/Window Designer, 3D Mosaicist, Scenic Artist, Fine Art Student, Archeologist, Special Effects Artist, Mold-Maker ... The Compleat Sculptor is your Compleat Source for Materials, Tools, Supplies & Services \""You supply the talent... We'll supply the rest.\"""""
+547,Art Galleries,
+548,Art Museums,
+549,Art Galleries,
+550,Art Galleries,
+551,Art Galleries,
+552,Art Galleries|Speciality Museums|Art Museums,"""The MARGO FEIDEN GALLERIES LTD has represented artist AL HIRSCHFELD since 1969. AL HIRSCHFELD's ARCHIVE of the PERFORMING ARTS is on Permanent Exhibition and Available to Collect. The Archives include art from BROADWAY Plays & Musicals, FILM, DANCE, OPERA, JAZZ, and CLASSICAL MUSIC.AL HIRSCHFELD's Drawings, signed and numbered lithographs, Books and Puzzles. Hours are Monday-Friday, 9 AM—6 PM+Weekends By Appointment."""
