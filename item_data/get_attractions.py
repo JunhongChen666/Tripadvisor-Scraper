@@ -3,15 +3,15 @@ from bs4 import BeautifulSoup
 import pandas as pd
 PREFIX = "https://www.tripadvisor.ca/"
 
-# # #Toronto
-# # Points of Interest & Landmarks in Toronto
-# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c47-t163-Toronto_Ontario.html"
-# #Nature & Parks in Toronto
-# PARK_URL= "https://www.tripadvisor.ca/Attractions-g155019-Activities-c57-Toronto_Ontario.html"
-# #Museums in Toronto
-# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c49-Toronto_Ontario.html"
-# FILE_NAME = "Toronto.csv"
-# DESTINATIONID=1
+# #Toronto
+# Points of Interest & Landmarks in Toronto
+LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c47-t163-Toronto_Ontario.html"
+#Nature & Parks in Toronto
+PARK_URL= "https://www.tripadvisor.ca/Attractions-g155019-Activities-c57-Toronto_Ontario.html"
+#Museums in Toronto
+MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g155019-Activities-c49-Toronto_Ontario.html"
+FILE_NAME = "Toronto.csv"
+DESTINATIONID=1
 
 # #Vancouver
 # # Points of Interest & Landmarks
@@ -44,15 +44,15 @@ PREFIX = "https://www.tripadvisor.ca/"
 # FILE_NAME = "Washington DC.csv"
 # DESTINATIONID=4
 
-#New York
-# Points of Interest & Landmarks
-LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
-#Nature & Parks
-PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
-#Museums
-MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
-FILE_NAME = "New York.csv"
-DESTINATIONID=5
+# #New York
+# # Points of Interest & Landmarks
+# LANDMARK_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c47-t163-New_York_City_New_York.html"
+# #Nature & Parks
+# PARK_URL= "https://www.tripadvisor.ca/Attractions-g60763-Activities-c57-New_York_City_New_York.html"
+# #Museums
+# MUSEUM_URL = "https://www.tripadvisor.ca/Attractions-g60763-Activities-c49-New_York_City_New_York.html"
+# FILE_NAME = "New York.csv"
+# DESTINATIONID=5
 
 
 

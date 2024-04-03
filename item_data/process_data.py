@@ -9,7 +9,7 @@ OUTPUT_FILE = "item_data.csv"
 
 def read_and_write_csv(input_file, output_file):
     # Read the input CSV file into a pandas DataFrame
-    df = pd.read_csv(input_file, encoding="ISO-8859-1")
+    df = pd.read_csv(input_file)
     
     # Process the data
     for index, row in df.iterrows():
