@@ -1,0 +1,50 @@
+user: 1 type1:  Islands type2:  Mountains type3:  Historic Sites type4:  Farms
+user: 2 type1:  Convention Centres type2:  Aquariums type3:  Cross-country Ski Areas type4:  Scenic Railroads
+user: 3 type1:  Parks type2:  Rail Tours type3:  Ships type4:  Universities & Schools
+user: 4 type1:  Government Buildings type2:  Jogging Paths & Tracks type3:  Cemeteries type4:  Biking Trails
+user: 5 type1:  Children's Museums type2:  History Museums type3:  Points of Interest & Landmarks type4:  Concerts
+user: 6 type1:  Observatories & Planetariums type2:  Jazz Bars type3:  Theatres type4:  Arenas & Stadiums
+user: 7 type1:  Coffee Shops type2:  Game & Entertainment Centres type3:  Piers & Boardwalks type4:  Bridges
+user: 8 type1:  Neighbourhoods type2:  Nature & Wildlife Areas type3:  Mysterious Sites type4:  Ballets
+user: 9 type1:  Marinas type2:  Bike Tours type3:  Educational sites type4:  Shopping Malls
+user: 10 type1:  Art Museums type2:  Bus Services type3:  Ski & Snowboard Areas type4:  Airport Lounges
+user: 11 type1:  Mountains type2:  Historic Sites type3:  Farms type4:  Science Museums
+user: 12 type1:  Aquariums type2:  Cross-country Ski Areas type3:  Scenic Railroads type4:  Lighthouses
+user: 13 type1:  Rail Tours type2:  Ships type3:  Universities & Schools type4:  Sports Complexes
+user: 14 type1:  Jogging Paths & Tracks type2:  Cemeteries type3:  Biking Trails type4:  Civic Centres
+user: 15 type1:  History Museums type2:  Points of Interest & Landmarks type3:  Concerts type4:  Battlefields
+user: 16 type1:  Jazz Bars type2:  Theatres type3:  Arenas & Stadiums type4:  Deserts
+user: 17 type1:  Game & Entertainment Centres type2:  Piers & Boardwalks type3:  Bridges type4:  Lessons & Workshops
+user: 18 type1:  Nature & Wildlife Areas type2:  Mysterious Sites type3:  Ballets type4:  Paint & Pottery Studios
+user: 19 type1:  Bike Tours type2:  Educational sites type3:  Shopping Malls type4:  Ski & Snow Tours
+user: 20 type1:  Bus Services type2:  Ski & Snowboard Areas type3:  Airport Lounges type4:  Theatre & Performances
+user: 21 type1:  Historic Sites type2:  Farms type3:  Science Museums type4:  Military Museums
+user: 22 type1:  Cross-country Ski Areas type2:  Scenic Railroads type3:  Lighthouses type4:  Castles
+user: 23 type1:  Ships type2:  Universities & Schools type3:  Sports Complexes type4:  Natural History Museums
+user: 24 type1:  Cemeteries type2:  Biking Trails type3:  Civic Centres type4:  Waterfalls
+user: 25 type1:  Points of Interest & Landmarks type2:  Concerts type3:  Battlefields type4:  Zoos
+user: 26 type1:  Theatres type2:  Arenas & Stadiums type3:  Deserts type4:  Churches & Cathedrals
+user: 27 type1:  Piers & Boardwalks type2:  Bridges type3:  Lessons & Workshops type4:  Art Galleries
+user: 28 type1:  Mysterious Sites type2:  Ballets type3:  Paint & Pottery Studios type4:  Observation Decks & Towers
+user: 29 type1:  Educational sites type2:  Shopping Malls type3:  Ski & Snow Tours type4:  Speciality Museums
+user: 30 type1:  Ski & Snowboard Areas type2:  Airport Lounges type3:  Theatre & Performances type4:  Gardens
+user: 31 type1:  Farms type2:  Science Museums type3:  Military Museums type4:  Beaches
+user: 32 type1:  Scenic Railroads type2:  Lighthouses type3:  Castles type4:  Geologic Formations
+user: 33 type1:  Universities & Schools type2:  Sports Complexes type3:  Natural History Museums type4:  Antique Shops
+user: 34 type1:  Biking Trails type2:  Civic Centres type3:  Waterfalls type4:  Playgrounds
+user: 35 type1:  Concerts type2:  Battlefields type3:  Zoos type4:  Public Transportation Systems
+user: 36 type1:  Arenas & Stadiums type2:  Deserts type3:  Churches & Cathedrals type4:  Forests
+user: 37 type1:  Bridges type2:  Lessons & Workshops type3:  Art Galleries type4:  Fountains
+user: 38 type1:  Ballets type2:  Paint & Pottery Studios type3:  Observation Decks & Towers type4:  Lookouts
+user: 39 type1:  Shopping Malls type2:  Ski & Snow Tours type3:  Speciality Museums type4:  Monuments & Statues
+user: 40 type1:  Airport Lounges type2:  Theatre & Performances type3:  Gardens type4:  Speciality & Gift Shops
+user: 41 type1:  Science Museums type2:  Military Museums type3:  Beaches type4:  National Parks
+user: 42 type1:  Lighthouses type2:  Castles type3:  Geologic Formations type4:  Spas
+user: 43 type1:  Sports Complexes type2:  Natural History Museums type3:  Antique Shops type4:  Scenic Walking Areas
+user: 44 type1:  Civic Centres type2:  Waterfalls type3:  Playgrounds type4:  Religious Sites
+user: 45 type1:  Battlefields type2:  Zoos type3:  Public Transportation Systems type4:  Military Bases & Facilities
+user: 46 type1:  Deserts type2:  Churches & Cathedrals type3:  Forests type4:  Architectural Buildings
+user: 47 type1:  Lessons & Workshops type2:  Art Galleries type3:  Fountains type4:  Historic Walking Areas
+user: 48 type1:  Paint & Pottery Studios type2:  Observation Decks & Towers type3:  Lookouts type4:  State Parks
+user: 49 type1:  Ski & Snow Tours type2:  Speciality Museums type3:  Monuments & Statues type4:  Rail Services
+user: 50 type1:  Theatre & Performances type2:  Gardens type3:  Speciality & Gift Shops type4:  Hiking Trails

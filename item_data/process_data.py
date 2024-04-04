@@ -5,7 +5,8 @@ F2 = "Vancouver.csv"
 F3 = "Quebec City.csv"
 F4=  "Washington DC.csv"
 F5 = "New York.csv"
-OUTPUT_FILE = "item_data.csv"
+TMP_FILE = "tmp.csv"
+OUTPUF_FILE= "item_data.csv"
 
 def read_and_write_csv(input_file, output_file):
     # Read the input CSV file into a pandas DataFrame
@@ -23,16 +24,32 @@ def read_and_write_csv(input_file, output_file):
             description = description.replace('\\', '\\\\').replace('"', '\\"')
             description = '"' + description + '"'
         df.at[index, 'description'] = description
-    df['ITEM_ID'] = range(1, len(df) + 1)
     # Write the processed DataFrame to the output CSV file
-    df[['ITEM_ID','labels', 'description']].to_csv(output_file, mode='a', header=False, index=False) 
+    df[['labels', 'description']].to_csv(output_file, mode='a', header=False, index=False) 
 
 
-columns = ['ITEM_ID', 'GENRES', 'DESCRIPTION']
+columns = ['GENRES', 'DESCRIPTION']
 df = pd.DataFrame(columns=columns)
-df.to_csv(OUTPUT_FILE, mode='w', header=True, index=False) 
-read_and_write_csv(F1, OUTPUT_FILE)
-read_and_write_csv(F2, OUTPUT_FILE)
-read_and_write_csv(F3, OUTPUT_FILE)
-read_and_write_csv(F4, OUTPUT_FILE)
-read_and_write_csv(F5, OUTPUT_FILE)
+df.to_csv(TMP_FILE, mode='w', header=True, index=False) 
+read_and_write_csv(F1, TMP_FILE)
+read_and_write_csv(F2, TMP_FILE)
+read_and_write_csv(F3, TMP_FILE)
+read_and_write_csv(F4, TMP_FILE)
+read_and_write_csv(F5, TMP_FILE)
+
+import pandas as pd
+
+# Read the CSV file into a DataFrame
+df = pd.read_csv(TMP_FILE)
+
+# Generate ITEM_ID values, you can replace this with your own logic for generating IDs
+item_ids = range(1, len(df) + 1)
+
+# Add the ITEM_ID column to the DataFrame
+df.insert(0, 'ITEM_ID', range(1, len(df) + 1))
+
+# Write the DataFrame back to a CSV file
+df.to_csv(OUTPUF_FILE, index=False)
+
+
+

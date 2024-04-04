@@ -36,7 +36,27 @@ data = [
   {"USER_ID": 27, "AGE": 44},
   {"USER_ID": 28, "AGE": 46},
   {"USER_ID": 29, "AGE": 50},
-  {"USER_ID": 30, "AGE": 55}
+  {"USER_ID": 30, "AGE": 55},
+  {"USER_ID": 31, "AGE": 45},
+  {"USER_ID": 32, "AGE": 42},
+  {"USER_ID": 33, "AGE": 41},
+  {"USER_ID": 34, "AGE": 43},
+  {"USER_ID": 35, "AGE": 48},
+  {"USER_ID": 36, "AGE": 47},
+  {"USER_ID": 37, "AGE": 44},
+  {"USER_ID": 38, "AGE": 46},
+  {"USER_ID": 39, "AGE": 50},
+  {"USER_ID": 40, "AGE": 39},
+  {"USER_ID": 41, "AGE": 45},
+  {"USER_ID": 42, "AGE": 42},
+  {"USER_ID": 43, "AGE": 41},
+  {"USER_ID": 44, "AGE": 43},
+  {"USER_ID": 45, "AGE": 48},
+  {"USER_ID": 46, "AGE": 47},
+  {"USER_ID": 47, "AGE": 44},
+  {"USER_ID": 48, "AGE": 46},
+  {"USER_ID": 49, "AGE": 50},
+  {"USER_ID": 50, "AGE": 55}
 ]
 df = pd.DataFrame(data)
 df.to_csv(FILE_NAME, mode='a', header=False, index=False) 
