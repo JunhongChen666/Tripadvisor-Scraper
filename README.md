@@ -1,5 +1,6 @@
 # Tripadvisor-Scraper
 Scrap acctractions from Tripadvisor using Beautiful Soup.
+Prepare training data for implementing a near real-time recommendations with Amazon Personalize.
 ## Attraction types
 - Points of Interest & Landmarks
 - Museums
@@ -8,17 +9,20 @@ Scrap acctractions from Tripadvisor using Beautiful Soup.
 - Toronto
 - Vancouver
 - New York
+- Quebec City
+- Washington DC
 ## Data Structure
 ```
 item = {
-    "name": str,
-    "label": [str],
-    "address": str,
-    "description": str,
-    "timeCost": str,
-    "rate": float,
-    "heat": float,
-    "opentime": str,
-    "img_url": str
+    "destinationId": DESTINATIONID,
+    "name": name,
+    "labels": labels,
+    "address": address,
+    "description": description,
+    "timeCost": timeCost,
+    "rate": rate,
+    "heat": heat,
+    "opentime": opentime,
+    "imgUrl": img_url,
 }
 ```
